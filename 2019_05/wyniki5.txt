@@ -1,0 +1,32 @@
+Zadanie 5.1
+63
+
+Zadanie 5.2
+Początek 448
+Koniec 455
+
+Zadanie 5.3	
+Rodzaj chmury	Średni opad
+C1	3,45
+C2	7,28
+C3	9,05
+C4	11,58
+C5	19,40
+S1	3,73
+S2	6,52
+S3	10,29
+S4	15,00
+S5	19,64
+
+Zadanie 5.4	
+a)
+0	34
+1	102
+2	102
+3	102
+4	100
+5	60
+	
+b)	296
+c)	286
+

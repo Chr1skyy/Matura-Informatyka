@@ -1,0 +1,201 @@
+id_gracza	kraj	data_dolaczenia
+1	Japonia	2018-02-15
+2	Indie	2017-06-08
+3	Stany Zjednoczone	2019-06-10
+4	Francja	2017-10-16
+5	Niemcy	2018-05-09
+6	Holandia	2019-07-11
+7	Polska	2017-10-30
+8	Stany Zjednoczone	2019-01-09
+9	Francja	2018-07-02
+10	Korea Poludniowa	2017-05-29
+11	Syria	2018-01-05
+12	Niemcy	2018-06-27
+13	Szwajcaria	2018-06-25
+14	Indie	2017-03-18
+15	Belgia	2019-06-06
+16	Korea Poludniowa	2017-02-26
+17	Bialorus	2017-07-01
+18	Stany Zjednoczone	2017-11-27
+19	Japonia	2018-09-26
+20	Holandia	2018-05-31
+21	Francja	2019-07-01
+22	Polska	2017-08-14
+23	Rosja	2018-10-04
+24	Stany Zjednoczone	2019-04-06
+25	Wielka Brytania	2017-07-11
+26	Korea Poludniowa	2019-03-09
+27	Polska	2017-06-26
+28	Stany Zjednoczone	2018-10-12
+29	Niemcy	2017-04-17
+30	Niemcy	2017-02-24
+31	Niemcy	2018-06-05
+32	Stany Zjednoczone	2018-09-01
+33	Francja	2018-04-18
+34	Chiny	2019-07-13
+35	Nowa Zelandia	2017-11-25
+36	Austria	2019-03-21
+37	Polska	2019-05-08
+38	Kanada	2018-09-13
+39	Meksyk	2017-11-15
+40	Niemcy	2017-05-15
+41	Polska	2018-02-07
+42	Izrael	2019-05-07
+43	Francja	2017-04-01
+44	Stany Zjednoczone	2017-12-08
+45	Stany Zjednoczone	2019-02-01
+46	Pakistan	2017-12-02
+47	Indie	2019-02-21
+48	Korea Poludniowa	2017-10-20
+49	Niemcy	2018-02-14
+50	Polska	2019-02-03
+51	Polska	2018-01-03
+52	Korea Poludniowa	2019-07-20
+53	Chiny	2019-06-27
+54	Rosja	2018-10-24
+55	Wielka Brytania	2017-05-20
+56	Rosja	2018-02-07
+57	Francja	2019-01-09
+58	Indonezja	2018-03-21
+59	Niemcy	2019-06-03
+60	Indie	2017-01-13
+61	Indie	2019-06-10
+62	Argentyna	2019-05-06
+63	Argentyna	2018-06-17
+64	Maroko	2019-01-13
+65	Hiszpania	2019-03-05
+66	Niemcy	2019-06-23
+67	Stany Zjednoczone	2018-05-06
+68	Szwajcaria	2017-07-27
+69	Pakistan	2018-04-05
+70	Wielka Brytania	2018-12-02
+71	Polska	2019-03-17
+72	Stany Zjednoczone	2018-11-24
+73	Korea Poludniowa	2019-07-12
+74	Maroko	2018-06-27
+75	Francja	2019-03-27
+76	Wielka Brytania	2017-05-25
+77	Bialorus	2019-05-14
+78	Hiszpania	2018-01-03
+79	Etiopia	2017-02-04
+80	Rosja	2019-03-31
+81	Francja	2018-07-09
+82	Rosja	2017-12-03
+83	Polska	2018-08-15
+84	Kanada	2018-02-23
+85	Szwecja	2019-07-20
+86	Filipiny	2018-06-13
+87	Rosja	2019-01-19
+88	Rosja	2019-05-13
+89	Stany Zjednoczone	2017-03-22
+90	Niemcy	2017-01-13
+91	Zjednoczone Emiraty Arabskie	2018-07-01
+92	Francja	2018-02-21
+93	Szwecja	2018-09-14
+94	Niemcy	2018-12-24
+95	Japonia	2019-07-02
+96	Niemcy	2017-01-17
+97	Wlochy	2018-04-18
+98	Izrael	2018-08-25
+99	Algieria	2019-02-05
+100	Niemcy	2017-02-10
+101	Szwecja	2017-04-27
+102	Francja	2018-10-20
+103	Japonia	2018-02-03
+104	Austria	2017-02-17
+105	Pakistan	2018-12-29
+106	Szwajcaria	2018-05-03
+107	Polska	2017-11-27
+108	Niemcy	2017-04-19
+109	Rosja	2018-06-30
+110	Korea Poludniowa	2017-12-14
+111	Niemcy	2018-07-19
+112	Austria	2019-02-21
+113	Wietnam	2017-07-03
+114	Niemcy	2017-03-24
+115	Indie	2019-02-27
+116	Wielka Brytania	2017-11-04
+117	Chiny	2018-02-04
+118	Nigeria	2017-07-15
+119	Francja	2017-02-22
+120	Chiny	2018-09-23
+121	Rosja	2018-05-22
+122	Wielka Brytania	2017-03-18
+123	Polska	2017-08-16
+124	Niemcy	2017-07-25
+125	Belgia	2018-02-07
+126	Rosja	2017-01-16
+127	Wietnam	2019-01-04
+128	Nepal	2017-04-02
+129	Szwajcaria	2017-09-02
+130	Rosja	2019-07-26
+131	Stany Zjednoczone	2018-08-26
+132	Polska	2019-01-17
+133	Stany Zjednoczone	2018-07-18
+134	Argentyna	2017-10-15
+135	Polska	2018-08-08
+136	Chiny	2017-02-17
+137	Indie	2018-05-13
+138	Turcja	2018-12-14
+139	Bangladesz	2019-01-30
+140	Niemcy	2019-05-30
+141	Wielka Brytania	2019-07-11
+142	Hiszpania	2018-12-05
+143	Indie	2018-12-02
+144	Rosja	2019-03-03
+145	Bialorus	2018-09-22
+146	Szwecja	2018-01-06
+147	Stany Zjednoczone	2018-07-21
+148	Indie	2017-01-15
+149	Australia	2017-07-04
+150	Egipt	2018-10-13
+151	Rosja	2017-01-12
+152	Polska	2018-10-22
+153	Turcja	2017-06-14
+154	Polska	2019-02-16
+155	Polska	2019-06-12
+156	Argentyna	2017-01-18
+157	Stany Zjednoczone	2017-10-15
+158	Polska	2017-05-18
+159	Chiny	2017-08-20
+160	Polska	2018-05-29
+161	Hiszpania	2019-01-16
+162	Polska	2018-12-30
+163	Wielka Brytania	2018-03-27
+164	Niemcy	2017-10-30
+165	Polska	2018-06-10
+166	Francja	2019-02-18
+167	Polska	2018-04-22
+168	Francja	2018-11-22
+169	Stany Zjednoczone	2017-11-17
+170	Nepal	2017-01-04
+171	Rosja	2019-07-20
+172	Rosja	2017-12-16
+173	Japonia	2017-05-16
+174	Holandia	2019-01-18
+175	Wielka Brytania	2019-06-10
+176	Japonia	2019-07-05
+177	Polska	2019-06-06
+178	Kanada	2019-03-27
+179	Niemcy	2019-07-28
+180	Chiny	2019-01-07
+181	Korea Poludniowa	2017-10-18
+182	Stany Zjednoczone	2018-10-08
+183	Meksyk	2018-12-20
+184	Australia	2019-01-29
+185	Polska	2018-08-07
+186	Niemcy	2019-05-09
+187	Francja	2017-07-10
+188	Wlochy	2018-06-19
+189	Polska	2017-09-08
+190	Niemcy	2017-05-30
+191	Kostaryka	2019-05-27
+192	Polska	2018-08-02
+193	Rosja	2019-04-29
+194	Francja	2018-04-30
+195	Wielka Brytania	2017-01-15
+196	Niemcy	2017-02-12
+197	Rosja	2018-04-04
+198	Polska	2017-12-12
+199	Wielka Brytania	2017-12-22
+200	Stany Zjednoczone	2019-03-20

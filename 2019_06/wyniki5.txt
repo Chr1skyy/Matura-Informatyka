@@ -1,0 +1,18 @@
+Zadanie 5.1	
+06.05.2015
+13172
+
+Zadanie 5.3
+miesiąc	litrów	koszt
+kwi	0	0,00
+maj	13172	164,36
+cze	89444	1056,60
+lip	217938	2559,32
+sie	310099	3651,14
+wrz	112774	1326,62
+
+Zadanie 5.4
+temperatura <=15	88
+temperatura >15 i opady <=0,6	73
+temperatura >15 i opady >0,6	22
+

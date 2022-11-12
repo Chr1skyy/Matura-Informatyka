@@ -1,0 +1,19 @@
+Zadanie 5.1	
+Region	Ludność
+A	 33 929 579 
+B	 41 736 619 
+C	 57 649 017 
+D	 36 530 387 
+
+Zadanie 5.2	
+Region	Liczba woj.
+A	3
+B	4
+C	8
+D	4
+Suma	19
+
+Zadanie 5.3	
+Ludność w 2025	 125 930 205 
+Najwięcej mieszkańców w 2025	w12C
+Ilośc przeludnień	18

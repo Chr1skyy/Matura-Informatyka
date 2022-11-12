@@ -1,0 +1,17 @@
+IdKlasy;ProfilKlasy
+1a;biologiczno-chemiczny
+1b;humanistyczny
+1c;matematyczno-fizyczno-informatyczny
+1d;technik informatyk
+1e;technik programista
+2a;biologiczno-chemiczny
+2b;filozoficzno-historyczny
+2c;matematyczno-fizyczno-informatyczny
+2d;matematyczno-informatyczny
+3a;biologiczno-chemiczny
+3b;humanistyczny
+3c;matematyczno-fizyczno-informatyczny
+3d;jezykowy
+3e;technik informatyk
+4d;technik informatyk
+4e;technik elektronik

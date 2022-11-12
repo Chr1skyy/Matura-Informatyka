@@ -1,0 +1,65 @@
+Zadanie 6.1
+109
+
+Zadanie 6.2
+Miasto	PoliczOfId_meczu
+Wiralow		41
+Kukurykow	39
+Szymbark	32
+Preziowo	30
+Bialowo		21
+Gorkowo		18
+Kielkowo	17
+Licowo		15
+Sadelko		15
+Radelko		15
+Koszalkowo	15
+Barylkowo	14
+Orecin		14
+Rezkow		13
+Warkowo		13
+Lewkowo		12
+
+Zadanie 6.3
+Imie	Nazwisko	Ilosc_meczy
+Franciszek	Dudek	27
+Natalia	Jankowska	36
+Barbara	Kaczmarek	21
+Monika	Kowalczyk	26
+Kamila	Majewska	21
+Katarzyna	Olszewska	25
+Szymon	Rutkowski	21
+
+Zadanie 6.4
+Imie	Nazwisko
+Filip	Adamczyk
+Katarzyna	Olszewska
+Marcin	Piotrowski
+Marta	Kowalska
+Monika	Kowalczyk
+Natalia	Jankowska
+Szymon	Rutkowski
+Zbigniew	Michalak
+
+Zadanie 6.5
+Nazwa	Miasto	Ilosc_wygranych	Ilosc_przegranych
+Sfinks	Szymbark	9	7
+Zenit	Licowo	8	7
+Victoria	Radelko	10	5
+Zjednoczeni	Kukurykow	10	8
+Gwardia	Sadelko	5	10
+Olimpia	Orecin	9	5
+Pitagor	Barylkowo	4	10
+Erytra	Kukurykow	10	11
+Stolar	Wiralow	11	9
+Astecja	Rezkow	10	3
+Bradownia	Preziowo	9	9
+Librac	Kielkowo	8	9
+Spirca	Lewkowo	6	6
+Huraganer	Szymbark	8	8
+Warna	Wiralow	10	11
+Malta	Bialowo	9	12
+Sitarka	Koszalkowo	5	10
+Waleczni	Preziowo	7	5
+Dynamo	Gorkowo	7	11
+Libero	Warkowo	8	5

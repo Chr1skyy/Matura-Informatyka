@@ -1,0 +1,134 @@
+Zadanie 4.1
+68 7 61
+24 5 19
+48 5 43
+12 5 7
+42 5 37
+66 5 61
+78 5 73
+88 5 83
+76 3 73
+64 3 61
+24 5 19
+22 3 19
+64 3 61
+18 5 13
+36 5 31
+42 5 37
+56 3 53
+30 7 23
+44 3 41
+28 5 23
+94 5 89
+28 5 23
+52 5 47
+28 5 23
+6 3 3
+36 5 31
+34 3 31
+58 5 53
+
+Zadanie 4.2
+d 1
+tt 2
+a 1
+lllllll 7
+ooooo 5
+wwwwww 6
+aaaaaaaaaaa 11
+jj 2
+aaaaaaaaaaaa 12
+ttt 3
+qqq 3
+uu 2
+s 1
+pppp 4
+sssssssssssss 13
+ww 2
+mm 2
+ddddd 5
+ss 2
+ll 2
+xxx 3
+ttttt 5
+hhhhhhhhh 9
+ggggggg 7
+pppp 4
+w 1
+kkkkkkkkk 9
+v 1
+x 1
+z 1
+ttttttt 7
+c 1
+tttttttttttt 12
+yyyyyyyyyyyy 12
+ccc 3
+j 1
+aaaaa 5
+a 1
+r 1
+gg 2
+zzzzzzzz 8
+jj 2
+oooooooooooooooo 16
+ppppp 5
+dddddd 6
+pppp 4
+x 1
+pppp 4
+d 1
+sssss 5
+aaaaaaa 7
+pppp 4
+kkkkkkkk 8
+wwwwww 6
+xxxx 4
+s 1
+gggg 4
+bb 2
+z 1
+o 1
+mmmmm 5
+aaaaaaa 7
+l 1
+llll 4
+ggggg 5
+aaaaa 5
+jjjjjjjjjj 10
+a 1
+jj 2
+kkkkk 5
+d 1
+kkkkk 5
+eee 3
+tttttttttt 10
+bbb 3
+uuuuuuuuuu 10
+dddd 4
+ggggggggg 9
+lll 3
+ttttttttttttttttttttttttttttttttt 33
+i 1
+fffff 5
+dd 2
+bb 2
+a 1
+h 1
+hh 2
+aaaa 4
+dddddddd 8
+ee 2
+d 1
+rrrrrrrrrrrrrr 14
+jjjjjjj 7
+n 1
+aaaaaaa 7
+s 1
+a 1
+uuuu 4
+jj 2
+d 1
+
+Zadanie 4.3
+3 asd

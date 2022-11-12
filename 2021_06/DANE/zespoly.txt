@@ -1,0 +1,24 @@
+id_zespolu;nazwa;liczba_artystow
+101;Male nutki;10
+102;Szalone gitary;8
+103;Niebieskie kontrabasy;12
+104;Spokojne werble;7
+105;Zolte perkusje;5
+106;Stare mandoliny;21
+107;Wiosenne bebny;6
+108;Powolne fortepiany;2
+109;Jesienne talerze;9
+110;Odjechane cymbaly;4
+111;Czerwone wiolonczele;11
+112;Ciche organy;9
+113;Fajne trojkaty;5
+114;Fioletowe dzwonki;2
+115;Powazne oboje;7
+116;Rytmiczne wibrafony;13
+117;Zielone akordeony;8
+118;Rozstrojone pianina;4
+119;Kuszace harfy;5
+120;Czarne klawesyny;11
+121;Metalowe klarnety;3
+122;Zlote saksofony;7
+123;Piszczace trabki;8

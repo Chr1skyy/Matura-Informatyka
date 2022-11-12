@@ -1,0 +1,38 @@
+kod_grupy	nazwa	siedziba
+AGR	Agritubel	Francja
+ALM	Ag2r-La Mondiale	Francja
+AST	Astana Pro Team	Kazachstan
+BAR	Barloworld	Wielka Brytania
+BMC	BMC Racing Team	Stany Zjednoczone
+BOH	Bora-Hansgrohe	Niemcy
+C.A	Credit Agricole	Francja
+CAN	Cannondale Pro Cycling	Wlochy
+COF	Cofidis	Francja
+CTT	Cervelo TestTeam	Szwajcaria
+DDD	Dimension Data	Poludniowa Afryka
+DEN	Direct Energie	Francja
+EFD	Education First-Drapac	Stany Zjednoczone
+EUS	Euskaltel-Euskadi	Hiszpania
+FVC	Fortuneo-Samsic	Francja
+GEO	Geox	Hiszpania
+GFC	Groupama-FDJ	Francja
+GST	Team Gerolsteiner	Niemcy
+IAM	IAM Cycling	Szwajcaria
+KAT	Team Katusha	Szwajcaria
+LTS	Lotto Soudal	Belgia
+MOV	Movistar Team	Hiszpania
+MRM	Team Milram	Wlochy
+MTS	Mitchelton-Scott	Australia
+QST	Quick-Step Floors	Belgia
+RSH	Team RadioShack	Stany Zjednoczone
+SKY	Team Sky	Wielka Brytania
+SOJ	Sojasun	Francja
+SUN	Team Sunweb	Niemcy
+TBM	Bahrain-Merida	Bahrajn
+TFS	Trek-Segafredo	Stany Zjednoczone
+THR	HTC-Highroad	Stany Zjednoczone
+TLJ	Team LottoNL-Jumbo	Holandia
+TNK	Tinkoff	Rosja
+UAD	UAE Team Emirates	Zjednoczone Emiraty Arabskie
+VCD	Vacansoleil-DCM	Holandia
+WGG	Wanty-Groupe Gobert	Belgia

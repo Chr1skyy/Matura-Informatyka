@@ -1,0 +1,233 @@
+Id_wyscigu;Rok;GrandPrix
+w1;2000;Australia
+w2;2000;Brazylia
+w3;2000;San Marino
+w4;2000;Wielka Brytania
+w5;2000;Hiszpania
+w6;2000;Europa
+w7;2000;Monako
+w8;2000;Kanada
+w9;2000;Francja
+w10;2000;Austria
+w11;2000;Niemcy
+w12;2000;Wegry
+w13;2000;Belgia
+w14;2000;Wlochy
+w15;2000;USA
+w16;2000;Japonia
+w17;2000;Malezja
+w18;2001;Australia
+w19;2001;Malezja
+w20;2001;Brazylia
+w21;2001;San Marino
+w22;2001;Hiszpania
+w23;2001;Austria
+w24;2001;Monako
+w25;2001;Kanada
+w26;2001;Europa
+w27;2001;Francja
+w28;2001;Wielka Brytania
+w29;2001;Niemcy
+w30;2001;Wegry
+w31;2001;Belgia
+w32;2001;Wlochy
+w33;2001;USA
+w34;2001;Japonia
+w35;2002;Australia
+w36;2002;Malezja
+w37;2002;Brazylia
+w38;2002;San Marino
+w39;2002;Hiszpania
+w40;2002;Austria
+w41;2002;Monako
+w42;2002;Kanada
+w43;2002;Europa
+w44;2002;Wielka Brytania
+w45;2002;Francja
+w46;2002;Niemcy
+w47;2002;Wegry
+w48;2002;Belgia
+w49;2002;Wlochy
+w50;2002;USA
+w51;2002;Japonia
+w52;2003;Australia
+w53;2003;Malezja
+w54;2003;Brazylia
+w55;2003;San Marino
+w56;2003;Hiszpania
+w57;2003;Austria
+w58;2003;Monako
+w59;2003;Kanada
+w60;2003;Europa
+w61;2003;Francja
+w62;2003;Wielka Brytania
+w63;2003;Niemcy
+w64;2003;Wegry
+w65;2003;Wlochy
+w66;2003;USA
+w67;2003;Japonia
+w68;2004;Australia
+w69;2004;Malezja
+w70;2004;Bahrain
+w71;2004;San Marino
+w72;2004;Hiszpania
+w73;2004;Monako
+w74;2004;Europa
+w75;2004;Kanada
+w76;2004;USA
+w77;2004;Francja
+w78;2004;Wielka Brytania
+w79;2004;Niemcy
+w80;2004;Wegry
+w81;2004;Belgia
+w82;2004;Wlochy
+w83;2004;Chiny
+w84;2004;Japonia
+w85;2004;Brazylia
+w86;2005;Australia
+w87;2005;Malezja
+w88;2005;Bahrain
+w89;2005;San Marino
+w90;2005;Hiszpania
+w91;2005;Monako
+w92;2005;Europa
+w93;2005;Kanada
+w94;2005;USA
+w95;2005;Francja
+w96;2005;Wielka Brytania
+w97;2005;Niemcy
+w98;2005;Wegry
+w99;2005;Turcja
+w100;2005;Wlochy
+w101;2005;Belgia
+w102;2005;Brazylia
+w103;2005;Japonia
+w104;2005;Chiny
+w105;2006;Bahrain
+w106;2006;Malezja
+w107;2006;Australia
+w108;2006;San Marino
+w109;2006;Europa
+w110;2006;Hiszpania
+w111;2006;Monako
+w112;2006;Wielka Brytania
+w113;2006;Kanada
+w114;2006;USA
+w115;2006;Francja
+w116;2006;Niemcy
+w117;2006;Wegry
+w118;2006;Turcja
+w119;2006;Wlochy
+w120;2006;Chiny
+w121;2006;Japonia
+w122;2006;Brazylia
+w123;2007;Australia
+w124;2007;Malezja
+w125;2007;Bahrain
+w126;2007;Hiszpania
+w127;2007;Monako
+w128;2007;Kanada
+w129;2007;USA
+w130;2007;Francja
+w131;2007;Wielka Brytania
+w132;2007;Europa
+w133;2007;Wegry
+w134;2007;Turcja
+w135;2007;Wlochy
+w136;2007;Belgia
+w137;2007;Japonia
+w138;2007;Chiny
+w139;2007;Brazylia
+w140;2008;Australia
+w141;2008;Malezja
+w142;2008;Bahrain
+w143;2008;Hiszpania
+w144;2008;Turcja
+w145;2008;Monako
+w146;2008;Kanada
+w147;2008;Francja
+w148;2008;Wielka Brytania
+w149;2008;Niemcy
+w150;2008;Wegry
+w151;2008;Europa
+w152;2008;Belgia
+w153;2008;Wlochy
+w154;2008;Singapur
+w155;2008;Japonia
+w156;2008;Chiny
+w157;2008;Brazylia
+w158;2009;Australia
+w159;2009;Malezja
+w160;2009;Chiny
+w161;2009;Bahrain
+w162;2009;Hiszpania
+w163;2009;Monako
+w164;2009;Turcja
+w165;2009;Wielka Brytania
+w166;2009;Niemcy
+w167;2009;Wegry
+w168;2009;Europa
+w169;2009;Belgia
+w170;2009;Wlochy
+w171;2009;Singapur
+w172;2009;Japonia
+w173;2009;Brazylia
+w174;2009;Abu Dhabi
+w175;2010;Bahrain
+w176;2010;Australia
+w177;2010;Malezja
+w178;2010;Chiny
+w179;2010;Hiszpania
+w180;2010;Monako
+w181;2010;Turcja
+w182;2010;Kanada
+w183;2010;Europa
+w184;2010;Wielka Brytania
+w185;2010;Niemcy
+w186;2010;Wegry
+w187;2010;Belgia
+w188;2010;Wlochy
+w189;2010;Singapur
+w190;2010;Japonia
+w191;2010;Korea Poludniowa
+w192;2010;Brazylia
+w193;2010;Abu Dhabi
+w194;2011;Australia
+w195;2011;Malezja
+w196;2011;Chiny
+w197;2011;Turcja
+w198;2011;Hiszpania
+w199;2011;Monako
+w200;2011;Kanada
+w201;2011;Europa
+w202;2011;Wielka Brytania
+w203;2011;Niemcy
+w204;2011;Wegry
+w205;2011;Belgia
+w206;2011;Wlochy
+w207;2011;Singapur
+w208;2011;Japonia
+w209;2011;Korea Poludniowa
+w210;2011;Indie
+w211;2011;Abu Dhabi
+w212;2011;Brazylia
+w213;2012;Australia
+w214;2012;Malezja
+w215;2012;Chiny
+w216;2012;Bahrain
+w217;2012;Hiszpania
+w218;2012;Monako
+w219;2012;Kanada
+w220;2012;Europa
+w221;2012;Wielka Brytania
+w222;2012;Niemcy
+w223;2012;Wegry
+w224;2012;Belgia
+w225;2012;Wlochy
+w226;2012;Singapur
+w227;2012;Japonia
+w228;2012;Korea Poludniowa
+w229;2012;Indie
+w230;2012;Abu Dhabi
+w231;2012;USA
+w232;2012;Brazylia

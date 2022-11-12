@@ -1,0 +1,42 @@
+Zadanie 6.1
+122
+
+Zadanie 6.2
+Piotrkow Trybunalski
+Grudziadz
+
+Zadanie 6.3
+swietokrzyskie	8,00
+opolskie	7,00
+lodzkie		7,00
+lubuskie	6,50
+slaskie		5,53
+malopolskie	5,33
+lubelskie	5,00
+podkarpackie	5,00
+dolnoslaskie	4,75
+wielkopolskie	4,25
+kujawsko-pomorskie	4,25
+zachodniopomorskie	4,00
+podlaskie	4,00
+warminsko-mazurskie	4,00
+pomorskie	2,67
+mazowieckie	2,67
+
+Zadanie 6.4
+Male nutki
+Stare mandoliny
+Wiosenne bebny
+Powolne fortepiany
+Ciche organy
+Fajne trojkaty
+Rozstrojone pianina
+Metalowe klarnety
+Zlote saksofony
+Piszczace trabki
+
+Zadanie 6.5
+nazwa	Weekend		Powszednie
+Niebieskie kontrabasy	4	1
+Powolne fortepiany	5	4
+Wiosenne bebny	4	3

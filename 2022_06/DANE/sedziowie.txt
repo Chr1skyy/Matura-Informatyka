@@ -1,0 +1,17 @@
+Id_sedziego;Imie;Nazwisko
+301;Jan;Malinowski
+302;Szymon;Rutkowski
+303;Anna;Nowak
+305;Zbigniew;Michalak
+306;Agnieszka;Wieczorek
+307;Marta;Kowalska
+308;Natalia;Jankowska
+310;Kamila;Majewska
+311;Piotr;Lewandowski
+312;Franciszek;Dudek
+313;Monika;Kowalczyk
+314;Barbara;Kaczmarek
+316;Marcin;Piotrowski
+317;Katarzyna;Olszewska
+319;Filip;Adamczyk
+320;Zofia;Grabowska

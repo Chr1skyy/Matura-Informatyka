@@ -1,0 +1,13 @@
+Zadanie 4.1
+Maksymalna luka: 1056392131
+Minimalna luka: 1
+
+Zadanie 4.2
+Długość fragmentu: 17
+Początek: 193134524
+Koniec 223545714
+
+Zadanie 4.3
+Luka, krotność:
+149 31
+11 31

@@ -1,0 +1,50 @@
+kod_miasta;miasto;wojewodztwo
+99-522;Bialystok;podlaskie
+99-531;Bielsko-Biala;slaskie
+99-504;Bydgoszcz;kujawsko-pomorskie
+99-532;Bytom;slaskie
+99-537;Chorzow;slaskie
+99-527;Czestochowa;slaskie
+99-536;Dabrowa Gornicza;slaskie
+99-543;Elblag;warminsko-mazurskie
+99-523;Gdansk;pomorskie
+99-524;Gdynia;pomorskie
+99-529;Gliwice;slaskie
+99-510;Gorzow Wielkopolski;lubuskie
+99-507;Grudziadz;kujawsko-pomorskie
+99-539;Jastrzebie-Zdroj;slaskie
+99-538;Jaworzno;slaskie
+99-503;Jelenia Gora;dolnoslaskie
+99-545;Kalisz;wielkopolskie
+99-526;Katowice;slaskie
+99-541;Kielce;swietokrzyskie
+99-546;Konin;wielkopolskie
+99-549;Koszalin;zachodniopomorskie
+99-513;Krakow;malopolskie
+99-502;Legnica;dolnoslaskie
+99-508;Lublin;lubelskie
+99-511;Lodz;lodzkie
+99-540;Myslowice;slaskie
+99-515;Nowy Sacz;malopolskie
+99-542;Olsztyn;warminsko-mazurskie
+99-520;Opole;opolskie
+99-547;Pila;wielkopolskie
+99-512;Piotrkow Trybunalski;lodzkie
+99-518;Plock;mazowieckie
+99-544;Poznan;wielkopolskie
+99-534;Ruda Slaska;slaskie
+99-533;Rybnik;slaskie
+99-521;Rzeszow;podkarpackie
+99-519;Siedlce;mazowieckie
+99-525;Slupsk;pomorskie
+99-528;Sosnowiec;slaskie
+99-548;Szczecin;zachodniopomorskie
+99-514;Tarnow;malopolskie
+99-505;Torun;kujawsko-pomorskie
+99-535;Tychy;slaskie
+99-501;Walbrzych;dolnoslaskie
+99-516;Warszawa;mazowieckie
+99-506;Wloclawek;kujawsko-pomorskie
+99-500;Wroclaw;dolnoslaskie
+99-530;Zabrze;slaskie
+99-509;Zielona Gora;lubuskie

@@ -1,0 +1,53 @@
+Zadanie 6.1
+Id_oferty	Imie	Nazwisko
+AB536MN	Karol	Zakowicz
+
+Zadanie 6.2
+Woj	ŚredniaOfCena
+dolnoslaskie	345000
+kujawsko-pomorskie	299000
+lodzkie	304100
+lubelskie	260879,33
+lubuskie	227283,33
+malopolskie	650000
+mazowieckie	267082,83
+opolskie	400000
+podkarpackie	301312,5
+podlaskie	271206,95
+pomorskie	414150
+swietokrzyskie	319207,62
+warminsko-mazurskie	132450
+wielkopolskie	298600
+zachodniopomorskie	269025,2
+
+Zadanie 6.3
+Id_oferty	Imie	Nazwisko	Woj	Pow	Cena
+AB543MT	Piotr	Kopacz	podlaskie	85	325000
+AB557MT	Adam	Nowak	lubelskie	83	349000
+AB644MT	Karol	Zakowicz	mazowieckie	76	174500
+AB691MT	Milena	Karwik	lubuskie	39	170000
+AB695MT	Adam	Nowak	podkarpackie	162	420800
+AB696MT	Rozalia	Siedlecka	wielkopolskie	42	160000
+AB699MT	Karol	Szwarc	lodzkie	68	190500
+AB700MT	Krzysztof	Nowak	mazowieckie	85	265000
+AB702MT	Adam	Nowak	mazowieckie	49	186000
+
+Zadanie 6.4
+Imie	Nazwisko
+Milena	Karwik
+Jerzy	Andrzejewski
+Krzysztof	Nowak
+
+Zadanie 6.5
+Id_oferty	Pow	L_pokoi	L_laz	Cena	Imie	Nazwisko	Status
+AB692DT	244	8	3	650000	Piotr	Kopacz	A
+AB694DN	212	8	3	630000	Karol	Szwarc	A
+AB693DN	182	7	2	425000	Krzysztof	Nowak	A
+AB666DN	220	6	3	450000	Krzysztof	Nowak	A
+AB672DT	212	6	2	575000	Sebastian	Babij	A
+AB680DT	220	6	2	520000	Adam	Nowak	A
+AB686MN	192	6	2	375000	Adam	Nowak	A
+AB697DN	195	6	2	460000	Karol	Szwarc	A
+AB670DN	208	5	3	358400	Karol	Zakowicz	A
+AB682DN	203	5	3	485000	Adam	Nowak	A
+AB683DN	195	5	2	395800	Piotr	Kopacz	A

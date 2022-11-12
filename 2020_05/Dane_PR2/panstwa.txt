@@ -1,0 +1,41 @@
+Panstwo	Kontynent	Populacja
+Afganistan	Azja	32,5
+Algieria	Afryka	39,7
+Argentyna	Ameryka Poludniowa	43,4
+Bangladesz	Azja	161,0
+Birma	Azja	51,4
+Brazylia	Ameryka Poludniowa	207,8
+Chiny	Azja	1367,0
+DRK	Afryka	77,3
+Egipt	Afryka	91,5
+Etiopia	Afryka	99,4
+Filipiny	Azja	100,7
+Francja	Europa	64,4
+Hiszpania	Europa	46,1
+Indie	Azja	1311,1
+Indonezja	Azja	257,6
+Irak	Azja	36,4
+Iran	Azja	79,1
+Japonia	Azja	126,6
+Kanada	Ameryka Polnocna	35,9
+Kenia	Afryka	46,1
+Kolumbia	Ameryka Poludniowa	48,2
+Korea Poludniowa	Azja	50,3
+Maroko	Afryka	34,4
+Meksyk	Ameryka Polnocna	127,0
+Niemcy	Europa	80,7
+Nigeria	Afryka	182,2
+Pakistan	Azja	188,9
+Polska	Europa	38,6
+Poludniowa Afryka	Afryka	54,5
+Rosja	Europa	143,5
+Sudan	Afryka	40,2
+Tajlandia	Azja	68,0
+Tanzania	Afryka	53,5
+Turcja	Azja	78,7
+Uganda	Afryka	39,0
+Ukraina	Europa	44,8
+USA	Ameryka Polnocna	321,8
+Wielka Brytania	Europa	64,7
+Wietnam	Azja	93,4
+Wlochy	Europa	59,8
