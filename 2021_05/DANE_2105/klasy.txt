@@ -1,0 +1,31 @@
+nazwa	sila	strzal	magia	szybkosc
+robotnik	5	0	0	10
+goniec	3	0	0	25
+drwal	8	0	0	8
+zwiadowca	8	5	0	25
+architekt	3	0	0	8
+artylerzysta	3	0	0	10
+szpieg	8	5	5	12
+piechur	10	0	0	12
+topornik	15	0	0	10
+pikinier	12	0	0	8
+lucznik	5	10	0	12
+kusznik	5	12	0	10
+mag powietrza	5	0	10	25
+mag wody	5	10	10	10
+mag ziemi	10	0	10	10
+mag ognia	5	0	15	10
+kaplan	8	0	12	10
+ciemny elf	15	5	5	12
+lesny elf	5	15	5	12
+elfi czarodziej	5	5	15	12
+wysoki elf-gwardzista	10	10	5	12
+lekki jezdziec	10	0	0	25
+kawalerzysta	20	0	0	25
+paladyn	20	0	5	20
+konny lucznik	8	10	0	25
+katapulta	5	35	0	5
+balista	5	30	0	8
+smok	35	0	10	25
+ifryt	8	20	15	30
+troll	30	0	0	10

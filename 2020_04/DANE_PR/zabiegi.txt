@@ -1,0 +1,122 @@
+kod_zabiegu	dzial	zabieg	cena (zl)	
+POO1	PIELEGNACJA OPRAWY OCZU	Henna brwi	15	
+POO2	PIELEGNACJA OPRAWY OCZU	Henna rzes	15	
+POO3	PIELEGNACJA OPRAWY OCZU	Regulacja brwi	10	
+POO4	PIELEGNACJA OPRAWY OCZU	Regulacja brwi woskiem	15	
+POO5	PIELEGNACJA OPRAWY OCZU	Henna brwi + regulacja	25	
+POO6	PIELEGNACJA OPRAWY OCZU	Henna brwi i rzes + regulacja	30	
+POO7	PIELEGNACJA OPRAWY OCZU	Henna brwi i rzes + regulacja woskiem	35	
+MKZ1	MAKIJAZ	Makijaz dzienny	50	
+MKZ2	MAKIJAZ	Makijaz probny	50	
+MKZ3	MAKIJAZ	Makijaz wieczorowy/slubny	80	
+PLD1	PIELEGNACJA DLONI	Manicure biologiczny	25	
+PLD2	PIELEGNACJA DLONI	Manicure biologiczny z malowaniem klasycznym	30	
+PLD3	PIELEGNACJA DLONI	Manicure biologiczny z malowaniem french	35	
+PLD4	PIELEGNACJA DLONI	Manicure BalbCare bez malowania	35	
+PLD5	PIELEGNACJA DLONI	Manicure BalbCare z malowaniem	45	
+PLD6	PIELEGNACJA DLONI	Manicure BalbCare z malowaniem French	50	
+PLD7	PIELEGNACJA DLONI	Manicure hybrydowy Semilac	50	
+PLD8	PIELEGNACJA DLONI	Manicure hybrydowy z malowaniem french	65	
+PLD9	PIELEGNACJA DLONI	Usuniecie manicure hybrydowego	20	
+PLD10	PIELEGNACJA DLONI	Kapiel parafinowa dloni (peeling, maska , masaz dloni)	30	
+PLS1	PIELEGNACJA STOP	Pedicure	70	
+PLS2	PIELEGNACJA STOP	Pedicure z malowaniem klasycznym	75	
+PLS3	PIELEGNACJA STOP	Pedicure z malowaniem french	80	
+PLS4	PIELEGNACJA STOP	Pedicure BalbCare bez malowania	75	
+PLS5	PIELEGNACJA STOP	Pedicure BalbCare z malowaniem	85	
+PLS6	PIELEGNACJA STOP	Pedicure BalbCare z malowaniem french	90	
+PLS7	PIELEGNACJA STOP	Pedicure hybrydowy z malowaniem klasycznym	90	
+PLS8	PIELEGNACJA STOP	Pedicure hybrydowy z malowaniem french	105	
+PLS9	PIELEGNACJA STOP	Usuniecie pedicure hybrydowego	20	
+PLS10	PIELEGNACJA STOP	zabieg regenerujaco-odzywczy na stopy	100	
+PLS11	PIELEGNACJA STOP	Kapiel parafinowa stop	40	
+PLS12	PIELEGNACJA STOP	zabieg regenerujaco-odzywczy na stopy z malowaniem	90	
+PLS13	PIELEGNACJA STOP	zabieg regenerujaco-odzywczy na stopy	80	
+ZGP1	ZABIEGI PODSTAWOWE	Masaz twarz, szyja, dekolt	45	
+ZGP2	ZABIEGI PODSTAWOWE	Masaz twarz, szyja, dekolt, serum + algi	100	
+ZGP3	ZABIEGI PODSTAWOWE	Maska kremowa	30	
+ZGP4	ZABIEGI PODSTAWOWE	Plat kolagenowy	60	
+ZGP5	ZABIEGI PODSTAWOWE	Plat kolagenowy pod oczy	25	
+ZGP6	ZABIEGI PODSTAWOWE	Maska Algowa	45	
+ZGP7	ZABIEGI PODSTAWOWE	Serum	15	
+ZGP8	ZABIEGI PODSTAWOWE	Ampulka	20	
+FCR1	ZABIEGI FIRMOWE CHARMINE ROSE	Wielowarstwowy zabieg nawilzajacy z kwasem hialuronowym i mocznikiem	100	
+FCR2	ZABIEGI FIRMOWE CHARMINE ROSE	zabieg Beta therapy	100	
+FCR3	ZABIEGI FIRMOWE CHARMINE ROSE	zabieg wiosenny	110	
+FCR4	ZABIEGI FIRMOWE CHARMINE ROSE	zabieg AQUA BAlANCe	120	
+FCR5	ZABIEGI FIRMOWE CHARMINE ROSE	zabieg Age Reverse	120	
+FCR6	ZABIEGI FIRMOWE CHARMINE ROSE	zabieg special care treatment	120	
+FCR7	ZABIEGI FIRMOWE CHARMINE ROSE	zabieg liftingujaco - rozswietlajacy	140	
+FCR8	ZABIEGI FIRMOWE CHARMINE ROSE	zabieg regenerujaco-rozjasniajacy	150	
+FCR9	ZABIEGI FIRMOWE CHARMINE ROSE	zabieg Aktywna witamina C	150	
+FCR10	ZABIEGI FIRMOWE CHARMINE ROSE	zabieg napinajaco-wygladzajacy tense DNA	150	
+FCR11	ZABIEGI FIRMOWE CHARMINE ROSE	zabieg dotleniajaco-rozswietlajacy - O2DNA	150	
+FCR12	ZABIEGI FIRMOWE CHARMINE ROSE	zabieg wzmacniajaco-obkurczajacy rozszerzone naczynia krwionosne CAlM DNA	150	
+FCR13	ZABIEGI FIRMOWE CHARMINE ROSE	Regenerujaco-stabilizujacy norma-sebo DNA	150	
+FCR14	ZABIEGI FIRMOWE CHARMINE ROSE	Przeciwzmarszczkowy - anti-aging Dna	150	
+FCR15	ZABIEGI FIRMOWE CHARMINE ROSE	zabieg owocowo-nawilzajacy	180	
+FCR16	ZABIEGI FIRMOWE CHARMINE ROSE	Magia Hawajow	240	
+OPK1	OCZYSZCZANIE/PEELING KAWITACYJNY	Manualne oczyszczanie twarzy z maska lagodzaca	95	
+OPK2	OCZYSZCZANIE/PEELING KAWITACYJNY	Manualne oczyszczanie twarzy z maska algowa	110	
+OPK3	OCZYSZCZANIE/PEELING KAWITACYJNY	Peeling kawitacyjny	60	
+OPK4	OCZYSZCZANIE/PEELING KAWITACYJNY	Peeling kawitacyjny z maska kremowa	90	
+OPK5	OCZYSZCZANIE/PEELING KAWITACYJNY	Peeling kawitacyjny z maska algowa	105	
+OPK6	OCZYSZCZANIE/PEELING KAWITACYJNY	Peeling kawitacyjny z doczyszczaniem i maska lagodzaca	110	
+OPK7	OCZYSZCZANIE/PEELING KAWITACYJNY	Peeling kawitacyjny z doczyszczaniem, serum i maska algowa	140	
+OPK8	OCZYSZCZANIE/PEELING KAWITACYJNY	D'arsonval	10	
+MZD1	MIKRODERMABRAZJA DIAMENTOWA	Twarz	99	
+MZD2	MIKRODERMABRAZJA DIAMENTOWA	Twarz + szyja	109	
+MZD3	MIKRODERMABRAZJA DIAMENTOWA	Twarz + szyja + dekolt	119	
+MBT1	MEZOTERAPIA BEZIGLOWA / TWARZ	Mezoterapia na twarz i szyje	120	
+MBT2	MEZOTERAPIA BEZIGLOWA / TWARZ	Mezoterapia z peelingiem kawitacyjnym na twarz i szyje	150	
+MBT3	MEZOTERAPIA BEZIGLOWA / TWARZ	Mezoterapia na dekolt	100	
+MBT4	MEZOTERAPIA BEZIGLOWA / TWARZ	Mezoterapia na dekolt z peelingiem kawitacyjnym	130	
+MBC1	MEZOTERAPIA BEZIGLOWA / CIALO	Ramiona, uda, brzuch, posladki	150	
+MSZ1	MASAZ	Relaksacyjny masaz plecow	50	
+MSZ2	MASAZ	Relaksacyjny masaz plecow z peelingiem	65	
+MSZ3	MASAZ	Masaz poszczegolnych czesci ciala	49	
+MSZ4	MASAZ	Masaz ciala	250	
+MSZ5	MASAZ	Masaz ciala z peelingiem	300	
+DAW1	DEPILACJA WOSKIEM	Wasik	15	
+DAW2	DEPILACJA WOSKIEM	Broda	15	
+DAW3	DEPILACJA WOSKIEM	Boki Twarzy	30	
+DAW4	DEPILACJA WOSKIEM	Cala Twarz	35	
+DAW5	DEPILACJA WOSKIEM	Pachy	25	
+DAW6	DEPILACJA WOSKIEM	lydki	40	
+DAW7	DEPILACJA WOSKIEM	Uda	45	
+DAW8	DEPILACJA WOSKIEM	Cale Nogi	80	
+DAW9	DEPILACJA WOSKIEM	Bikini	50	
+DAW10	DEPILACJA WOSKIEM	Rece	40	
+DAW11	DEPILACJA WOSKIEM	Brzuch	35	
+DAW12	DEPILACJA WOSKIEM	Plecy	60	
+DAW13	DEPILACJA WOSKIEM	Klatka Piersiowa	40	
+DAW14	DEPILACJA WOSKIEM	Okolice Pepka	20	
+FRD1	FRYZJER DAMSKI	Mycie z masazem, czesanie	60	
+FRD2	FRYZJER DAMSKI	Komplet strzyzenie+czesanie	95	
+FRD3	FRYZJER DAMSKI	Kolor 	145	
+FRD4	FRYZJER DAMSKI	Kolor 2 w 1	175	
+FRD5	FRYZJER DAMSKI	Kontrast / Balayage	205	
+FRD6	FRYZJER DAMSKI	Koloryzacja Flash	70	
+FRD7	FRYZJER DAMSKI	Kolor bez amoniaku	125	
+FRD8	FRYZJER DAMSKI	Dekoloryzacja	125	
+FRD9	FRYZJER DAMSKI	Smartbond do koloryzacji	85	
+FRD10	FRYZJER DAMSKI	Keratynowe prostowanie wlosow	449	
+FRD11	FRYZJER DAMSKI	Przedluzanie	1499	
+FRD12	FRYZJER DAMSKI	Zageszczanie	799	
+FRD13	FRYZJER DAMSKI	Doczepianie	299	
+FRD14	FRYZJER DAMSKI	Kuracja JLD	55	
+FRD15	FRYZJER DAMSKI	Kuracja L'Oreal	55	
+FRD16	FRYZJER DAMSKI	Rytual Kerastase (termoodbudowy, stymulujacy rozswietlajacy, oczyszczajaco-kojacy, jedwabistosci, gestosci, Aura botanica)	100	
+FRD17	FRYZJER DAMSKI	Rytual Kerastase (dyscyplinujacy)	150	
+FRD18	FRYZJER DAMSKI	Upiecie / Fale / Loki	135	
+FRD19	FRYZJER DAMSKI	Grzywka	20	
+FRD20	FRYZJER DAMSKI	Maska Masquargil	20	
+FRD21	FRYZJER DAMSKI	Peeling oczyszczajacy	20	
+FRM1	FRYZJER MESKI	Mycie z masazem, strzyzenie	75	
+FRM2	FRYZJER MESKI	Odsiwianie	120	
+FRM3	FRYZJER MESKI	Wasy, broda	20	
+FRM4	FRYZJER MESKI	Kuracja JLD	55	
+FRM5	FRYZJER MESKI	Kuracja L'Oreal	55	
+FRM6	FRYZJER MESKI	Rytual Kerastase (termoodbudowy, stymulujacy rozswietlajacy, oczyszczajaco-kojacy, jedwabistosci, gestosci, Aura botanica)	100	
+FRM7	FRYZJER MESKI	Rytual Kerastase (dyscyplinujacy)	150	
+FRM8	FRYZJER MESKI	Maska Masquargil	20	

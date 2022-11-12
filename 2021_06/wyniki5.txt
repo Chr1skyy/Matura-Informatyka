@@ -1,0 +1,28 @@
+Zadanie 5.1	
+Koszty	15 950,00 zł
+Przychody	39 600,00 zł
+Data	01.06.2023
+	
+Zadanie 5.2	
+Miesiąc	Dochód
+Styczeń	-7430
+Luty	600
+Marzec	1590
+Kwiecień	2250
+Maj	2850
+Czerwiec	3660
+Lipiec	4920
+Sierpień	5610
+Wrzesień	4320
+Październik	1890
+Listopad	2040
+Grudzień	1350
+	
+Zadanie 5.3	
+a	47
+b	57
+c	66
+	
+Zadanie 5.4	
+Koszty łączne	100 655,00 zł
+Przychody łączne	249 630,00 zł

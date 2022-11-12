@@ -1,0 +1,45 @@
+Zadanie 6.1
+Kobiet - 161
+Mężczyzn - 119
+
+Zadanie 6.2
+Srod_lok	PoliczOfId
+autobus	1
+pociag	5
+rower	13
+samochod	4
+tramwaj	20
+
+Zadanie 6.3
+Wojewodztwo	PoliczOfId
+Dolnoslaskie	30
+Mazowieckie	43
+Slaskie	23
+Wielkopolskie	30
+
+Zadanie 6.4
+Nazwisko	Imie	Wojewodztwo
+Bobowik	Maria	Lubelskie
+Borowska	Elzbieta	Malopolskie
+Borowska	Anna	Malopolskie
+Busma	Sebastian	Lubuskie
+Czajewska	Marta	Pomorskie
+Dziegielewska	Barbara	Pomorskie
+Gawkowski	Piotr	Podkarpackie
+Glowacka	Kamila	Swietokrzyskie
+Iwaszczuk	Andrzej	Mazowieckie
+Janasz	Michal	Mazowieckie
+Jankowska	Justyna	Mazowieckie
+Jasinski	Marcin	Mazowieckie
+Kanadys	Grzegorz	Warminsko - Mazurskie
+Karwowska	Katarzyna	Mazowieckie
+Kimsza	Marta	Pomorskie
+Klimaszewska	Klara	Dolnoslaskie
+Kobeszko	Emilia	Lubelskie
+Korol	Maria	Malopolskie
+Korzunowicz	Piotr	Dolnoslaskie
+Kozlowska	Karolina	Mazowieckie
+Krasowska	Monika	Lubelskie
+
+Zadanie 6.5
+3250

@@ -1,0 +1,50 @@
+Zadanie 5.1
+Rodzina	PoliczOfJezyk
+nigero-kongijska	137
+austronezyjska	65
+indoeuropejska	63
+sino-tybetanska	43
+nilo-saharyjska	30
+afroazjatycka	28
+dajska	23
+austroazjatycka	20
+turecka	15
+drawidyjska	15
+jezyk izolowany	8
+polnocno-wschodniokaukaska	7
+otomang	7
+mongolska	5
+majanska	5
+hmong-mien	4
+abchasko-adygijska	3
+uralska	3
+uto-aztecka	1
+na-dene	1
+tungusko-mandzurska	1
+tupi	1
+algijska	1
+keczua	1
+
+Zadanie 5.2
+445
+
+Zadanie 5.3
+angielski
+arabski
+gudzaracki
+tamilski
+
+Zadanie 5.4
+Jezyk	Rodzina	SumaOfSumaOfUzytkownicy
+mandarynski	sino-tybetanska	3,1
+arabski	afroazjatycka	2,7
+tagalog	austronezyjska	1,9
+wietnamski	austroazjatycka	1,5
+nahuatl	uto-aztecka	1,4
+koreanski	jezyk izolowany	1,2
+
+Zadanie 5.5
+Panstwo	Jezyk	Procent
+Indonezja	jawajski	32,73
+Pakistan	pendzabski	40,44
+Etiopia	oromo	35,51

@@ -1,0 +1,10 @@
+Zadanie 4.1
+422
+
+Zadanie 4.2
+Podzielne przez 2: 500
+Podzielne przez 8: 123
+
+Zadanie 4.3
+Numer wiersza najmniejszej liczby: 859
+Numer wiersza największej liczby: 925

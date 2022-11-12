@@ -1,0 +1,46 @@
+Zadanie 6.1
+Chris	Froome	83:56:40
+
+Zadanie 6.2
+Maciej	Bodnar	5
+
+Zadanie 6.3
+rok	imie	nazwisko
+2008	Gerald	Ciolek
+2008	John-Lee	Augustyn
+2008	Roman	Kreuziger
+2009	Rigoberto	Uran
+2010	Fabio	Felline
+2011	Anthony	Delaplace
+2012	Peter	Sagan
+2012	Thibaut	Pinot
+2013	Danny	van Poppel
+2014	Danny	van Poppel
+2015	Merhawi	Kudus
+2016	Alexis	Gougeard
+2016	Dylan	Groenewegen
+2016	Luka	Pibernik
+2016	Sondre Holst	Enger
+2016	Timo	Roosen
+2017	Elie	Gesbert
+
+Zadanie 6.4
+2012	46
+
+Zadanie 6.5
+rok	PoliczOfPoliczOfkod_grupy
+2008	1
+2009	1
+2010	1
+2011	4
+2012	2
+2013	2
+2014	2
+2015	1
+2017	1
+
+2011 - Direct Energie, Euskaltel-Euskadi, Sojasun, Team Katusha
+
+Zadanie 6.6
+Chris	Froome	Kenia, Wielka Brytania
+Heinrich	Haussler	Australia, Niemcy	

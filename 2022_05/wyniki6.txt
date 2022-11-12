@@ -1,0 +1,22 @@
+Zadanie 6.1
+165
+
+Zadanie 6.2
+Data	PoliczOfIdUcznia
+04.04.2022	233
+05.04.2022	303
+06.04.2022	133
+07.04.2022	280
+08.04.2022	127
+
+Zadanie 6.3
+IdUcznia	Imie	Nazwisko
+314	Sebastian	Rabaj
+172	Monika	Kado
+299	Alicja	Kronecka
+
+Zadanie 6.4
+Imie	Nazwisko
+Mateusz	Kordas
+Krzysztof	Michalak
+Oliwier	Ziolko

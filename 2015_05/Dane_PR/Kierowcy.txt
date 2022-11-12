@@ -1,0 +1,58 @@
+Id_kierowcy;Nazwisko;Imie;Kraj
+z1;Pizzonia;Antonio;Brazylia
+z2;Sutil;Adrian;Niemcy
+z3;Wurz;Alexander;Austria
+z4;Senna;Bruno;Brazylia
+z5;Albers;Christijan;Holandia
+z6;da Matta;Cristiano;Brazylia
+z7;Klien;Christian;Austria
+z8;Coulthard;David;Szkocja
+z9;Ricciardo;Daniel;Australia
+z10;Irvine;Eddie;Irlandia
+z11;Alonso;Fernando;Hiszpania
+z12;Massa;Felipe;Brazylia
+z13;Fisichella;Giancarlo;Wlochy
+z14;Frentzen;Heinz-Harald;Niemcy
+z15;Kovalainen;Heikki;Finlandia
+z16;Alesi;Jean;Francja
+z17;Alguersuari;Jaime;Hiszpania
+z18;Button;Jenson;Wielka Brytania
+z19;Montoya;Juan Pablo;Kolumbia
+z20;Trulli;Jarno;Wlochy
+z21;Vergne;Jean-Eric;Francja
+z22;Verstappen;Jos;Holandia
+z23;Villeneuve;Jacques;Kanada
+z24;Wilson;Justin;Wielka Brytania
+z25;Kobayashi;Kamui;Japonia
+z26;Raikkonen;Kimi;Finlandia
+z27;Hamilton;Lewis;Wielka Brytania
+z28;Gene;Marc;Hiszpania
+z29;Hakkinen;Mika;Finlandia
+z30;Salo;Mika;Finlandia
+z31;Schumacher;Michael;Niemcy
+z32;Webber;Mark;Australia
+z33;Heidfeld;Nick;Niemcy
+z34;Hulkenberg;Nico;Niemcy
+z35;Karthikeyan;Narain;Indie
+z36;Rosberg;Nico;Niemcy
+z37;Panis;Olivier;Francja
+z38;de la Rosa;Pedro;Hiszpania
+z39;di Resta;Paul;Wielka Brytania
+z40;Friesacher;Patrick;Austria
+z41;Maldonado;Pastor;Wenezuela
+z42;Barrichello;Rubens;Brazylia
+z43;Firman;Ralph;Wielka Brytania
+z44;Grosjean;Romain;Francja
+z45;Kubica;Robert;Polska
+z46;Schumacher;Ralf;Niemcy
+z47;Zonta;Ricardo;Brazylia
+z48;Bourdais;Sebastien;Francja
+z49;Buemi;Sebastien;Szwajcaria
+z50;Perez;Sergio;Meksyk
+z51;Vettel;Sebastian;Niemcy
+z52;Glock;Timo;Niemcy
+z53;Monteiro;Tiago;Portugalia
+z54;Sato;Takuma;Japonia
+z55;Liuzzi;Vitantonio;Wlochy
+z56;Petrov;Vitaly;Rosja
+z57;Baumgartner;Zsolt;Wegry

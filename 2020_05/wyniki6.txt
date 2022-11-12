@@ -1,0 +1,26 @@
+Zadanie 6.1	
+T4	905
+
+Zadanie 6.2
+22
+
+Zadanie 6.3		
+16.01.2016		
+Najmniej	T4	24
+Najwięcej	T2	48
+
+01.08.2018		
+Najwięcej	T5	125
+Najmniej	T1	3
+
+Zadanie 6.5	
+Zadanie 6.5	
+a	
+Stan konta po zakończeniu	545844
+Data	 18.12.2018
+	
+Maksymalny stan konta po wypłynięciu	550079
+Data	08.10.2018
+	
+b	
+Minimum	6399

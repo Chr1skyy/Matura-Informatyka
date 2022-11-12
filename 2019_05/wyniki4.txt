@@ -1,0 +1,13 @@
+Zadanie 4.1
+18
+
+Zadanie 4.2
+2
+145
+1
+40585
+
+Zadnaie 4.3
+Pierwsza liczba ciągu: 31968
+Długość: 150
+Największy wspólny dzielnik: 74

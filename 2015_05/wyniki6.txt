@@ -1,0 +1,25 @@
+Zadanie 6.1
+Rok	GrandPrix
+2010	Australia
+
+Zadanie 6.2
+Indie	2
+
+Zadanie 6.3
+Nazwisko	Imie	Rok	SumaOfPunkty
+Schumacher	Michael	2000	108
+Alonso	Fernando	2006	134
+Vettel	Sebastian	2012	281
+
+Zadanie 6.4
+Kraj	PoliczOfId_kierowcy
+Australia	2
+Brazylia	2
+Finlandia	1
+Francja	2
+Hiszpania	1
+Japonia	1
+Meksyk	1
+Niemcy	4
+Wenezuela	1
+Wielka Brytania	3

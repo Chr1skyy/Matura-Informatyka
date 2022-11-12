@@ -1,0 +1,51 @@
+Zadanie 6.1
+Oyal Priather
+Ologne D'oud
+Uelques FleuE
+
+Zadanie 6.2
+rodzina_zapachow	MinimumOfcena	nazwa_p
+aromatyczna	124	Ibrary Ollec D'amore
+cytrusowa	259	Sian Grad
+cytrusowo-aromatyczna	178	Re Nostrum,ir
+drzewna	123	Pperlee Bouquet
+kwiatowa	110	Ose Deurmaline
+kwiatowo-drzewna	104	Rougna
+kwiatowo-orientalna	103	Arla : Vivace
+kwiatowo-szyprowa	287	Etish Pothal
+orientalna	113	Anille La Tosca
+orientalna lagodna	122	Ndy Warhol S Rose
+orientalno-drzewna	138	LackNight
+owocowa	154	Ake Perfucturne
+pudrowa	139	Ivm Cristal
+skorzana	112	Ui Mare
+szyprowa	226	Usk ti 1888
+szyprowo-skorzana	158	Uir OtPlace
+wodna	146	Ilver Mounaya
+zielona	406	EOman
+
+Zadanie 6.3
+Aison Eranciro
+Arthbey
+Embert Lucas
+Enmith
+Nnick a Kieffo
+
+Zadanie 6.4
+nazwa_p	Po
+Ourn Boise	141,95
+Onou Back	222,7
+Pic An	230,35
+Nterl Bambola	292,4
+Ubilatio Champs	381,65
+Ibrary Ollec D'or	489,6
+Ate An	544,85
+Elov & Musc	660,45
+
+Zadanie 6.5
+nazwa_m	rodzina_zapachow
+Enmith	kwiatowo-orientalna
+Ightce	aromatyczna
+Issmkunstwerke	orientalna
+Nnick a Kieffo	orientalna
+X ICologne	orientalno-drzewna
