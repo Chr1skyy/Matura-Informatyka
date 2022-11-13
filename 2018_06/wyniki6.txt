@@ -1,0 +1,224 @@
+Zadanie 6.1
+Imie	Nazwisko	Nr_rej	Czas_wypozyczenia	Naleznosc
+Nela	Aabacka	WI1150	2	160
+Cyrenia	Abbacka	AN1051	3	240
+Marcislaw	Abbacki	MA1328	27	2160
+Marcislaw	Abbacki	WI1022	3	660
+Marcislaw	Abbacki	PI1164	3	660
+Norma	Adbacka	WI1215	11	1540
+Darlena	Aebacka	PI1264	7	1540
+Darlena	Aebacka	WI1306	5	400
+Pafnucy	Agbacki	NI1279	6	1320
+Naomhan	Ahbacki	WI1126	7	560
+Naomhan	Ahbacki	NI1056	13	1820
+Abira	Babacka	MA1059	29	2320
+Paloma	Bbbacka	WI1215	1	140
+Nunilona	Bcbacka	WI1150	6	480
+Nunilona	Bcbacka	MA1137	27	2160
+Jan Gwalbert	Bebacki	PI1031	7	560
+Leokadia	Bhbacka	AN1069	8	640
+Badulf	Cbbacki	NI1225	13	2860
+Badulf	Cbbacki	NI1176	2	160
+Wawrzyniec	Cdbacki	PI1130	13	1040
+Arian	Cfbacki	AN1069	5	400
+Faina	Cgbacka	WI1275	12	960
+Leodegar	Chbacki	PI1133	15	2100
+Acelin	Dbbacki	NI1303	24	1920
+Genowefa	Ddbacka	AN1029	21	4620
+Kanizjusz	Debacki	WI1145	4	560
+Franciszek Ksawery	Dgbacki	AN1190	15	1200
+Franciszek Ksawery	Dgbacki	NI1057	16	1280
+Franciszek Ksawery	Dgbacki	PI1019	16	1280
+Karina	Dhbacka	WI1202	19	4180
+Abia	Eabacka	PI1007	21	1680
+Abia	Eabacka	NI1303	15	1200
+Urho	Ebbacki	PI1207	22	4840
+Irydion	Ecbacki	WI1038	25	2000
+Eufrozyna	Edbacka	MA1107	1	80
+Faina	Egbacka	MA1144	14	1120
+Franciszek Ksawery	Ehbacki	PI1217	28	3920
+Franciszek Ksawery	Ehbacki	NI1205	22	1760
+Franciszek Ksawery	Ehbacki	WI1167	5	400
+Amon	Fabacki	PI1289	14	3080
+Amon	Fabacki	PI1100	16	1280
+Ksawery	Fbbacki	PI1131	16	1280
+Tupak	Fcbacki	PI1200	20	1600
+Tupak	Fcbacki	MA1043	11	2420
+Tupak	Fcbacki	PI1253	25	3500
+Marcislaw	Fhbacki	MA1091	10	800
+Elifiusz	Gabacki	MA1147	13	1820
+Wanesa	Gbbacka	NI1276	5	400
+Wanesa	Gbbacka	NI1259	5	700
+Gustaw	Gbbacki	WI1275	4	320
+Gustaw	Gbbacki	MA1349	8	640
+Leokadia	Gcbacka	MA1119	21	1680
+Ksawera	Gdbacka	PI1213	8	640
+Ksawera	Gdbacka	AN1273	19	4180
+Jan Nepomucen	Gebacki	AN1305	4	320
+Adamma	Ggbacka	WI1280	23	5060
+Adamma	Ggbacka	WI1092	12	1680
+Jurata	Ghbacka	WI1231	16	1280
+Biryn	Habacki	WI1278	18	3960
+Ramzes	Hcbacki	PI1253	24	3360
+Ramzes	Hcbacki	WI1192	28	2240
+Ramzes	Hcbacki	PI1130	2	160
+Ramzes	Hcbacki	WI1249	2	160
+Ramzes	Hcbacki	NI1016	8	640
+Elifiusz	Hdbacki	MA1296	2	440
+Plautylla	Hfbacka	WI1042	10	800
+Plautylla	Hfbacka	WI1070	28	6160
+Plautylla	Hfbacka	WI1185	21	1680
+Plautylla	Hfbacka	PI1172	15	1200
+Badulf	Hgbacki	WI1165	26	5720
+Kanizja	Iabacka	WI1180	15	2100
+Jagoda	Ibbacka	MA1183	20	1600
+Jagoda	Ibbacka	NI1260	8	640
+Symplicja	Icbacka	PI1130	1	80
+Symplicja	Icbacka	PI1217	29	4060
+Franciszek Ksawery	Idbacki	WI1156	18	1440
+Symplicja	Ifbacka	MA1027	4	880
+Symplicja	Ifbacka	NI1339	4	880
+Borys	Jabacki	MA1333	3	660
+Borys	Jabacki	WI1185	12	960
+Fidol	Jbbacki	NI1071	21	1680
+Arian	Jcbacki	WI1062	1	220
+Arian	Jcbacki	WI1230	19	2660
+Kalina	Jdbacka	WI1199	5	400
+Kalina	Jdbacka	NI1044	11	1540
+Wawrzyniec	Jfbacki	WI1247	9	1260
+Areta	Kbbacka	WI1254	2	160
+Gleb	Kbbacki	NI1080	1	220
+Marzanna	Kcbacka	WI1282	22	1760
+Serapia	Kdbacka	NI1293	28	3920
+Serapia	Kdbacka	MA1196	20	1600
+Herweusz	Kebacki	NI1032	22	3080
+Areta	Kfbacka	WI1282	22	1760
+Adelisa	Kgbacka	MA1177	5	1100
+Ampara	Labacka	AN1125	16	1280
+Wanesa	Lbbacka	PI1297	9	1260
+Fidol	Lbbacki	PI1264	20	4400
+Fidol	Lbbacki	PI1118	3	420
+Abira	Lcbacka	AN1146	25	2000
+Ampara	Lfbacka	MA1067	18	2520
+Ampara	Lfbacka	PI1274	29	4060
+Marzanna	Lhbacka	AN1076	19	4180
+Marzanna	Lhbacka	NI1127	7	560
+Adra	Mcbacka	AN1267	11	880
+Liboriusz	Mdbacki	NI1203	17	2380
+Liboriusz	Mdbacki	PI1116	5	1100
+Wanesa	Mebacka	WI1298	3	420
+Aida	Mgbacka	PI1269	22	1760
+Aida	Mgbacka	NI1071	10	800
+Kanizja	Nabacka	NI1057	8	640
+Kanizja	Nabacka	MA1345	22	4840
+Galezy	Nbbacki	WI1275	27	2160
+Jelena	Nebacka	MA1333	10	2200
+Adra	Nhbacka	WI1041	1	80
+Adra	Nhbacka	PI1102	15	2100
+Ksaweryna	Oabacka	NI1127	14	1120
+Ksaweryna	Oabacka	MA1107	11	880
+Anizja	Obbacka	PI1319	9	1980
+Kordian	Ocbacki	MA1317	5	400
+Kordian	Ocbacki	NI1080	29	6380
+Kordian	Ocbacki	WI1113	25	2000
+Arlena	Odbacka	PI1142	29	2320
+Adelisa	Ofbacka	NI1103	22	4840
+Adelisa	Ofbacka	NI1239	16	2240
+Felin	Ogbacki	AN1072	2	280
+Arabela	Ohbacka	PI1251	23	3220
+Arabela	Ohbacka	MA1220	23	3220
+Galezy	Pbbacki	MA1129	22	3080
+Wioleta	Pdbacka	MA1220	8	1120
+Abelia	Pebacka	PI1130	3	240
+Tina	Pfbacka	MA1300	7	560
+Felin	Pgbacki	WI1110	25	3500
+Felin	Pgbacki	PI1082	9	1260
+Ryta	PNbbacka	WI1250	1	220
+Anizja	Rabacka	PI1350	12	1680
+Linus	Rbbacki	WI1054	6	480
+Nela	Rcbacka	PI1020	24	1920
+Karina	Rfbacka	NI1259	12	1680
+Plautylla	Sabacka	NI1056	13	1820
+Plautylla	Sabacka	MA1296	20	4400
+Plautylla	Sabacka	WI1302	1	220
+Plautylla	Sabacka	NI1276	1	80
+Mowsar	Sbbacki	WI1286	21	2940
+Klet	Scbacki	PI1292	15	3300
+Klet	Scbacki	AN1076	28	6160
+Ilona	Sdbacka	MA1236	25	5500
+Apostazja	Sgbacka	PI1048	28	2240
+Jan Kanty	Tabacki	NI1166	15	3300
+Serapia	Tbbacka	WI1246	14	3080
+Jan Chrystian	Tbbacki	NI1237	3	660
+Wadim	Tdbacki	PI1019	7	560
+Benicjusz	Tebacki	PI1031	8	640
+Klet	Tgbacki	PI1172	28	2240
+Jan Gwalbert	Thbacki	WI1170	16	2240
+Jesyka	Uabacka	WI1033	11	2420
+Filip Neriusz	Ubbacki	MA1149	5	400
+Filip Neriusz	Ubbacki	NI1024	14	1960
+Filip Neriusz	Ubbacki	AN1094	24	5280
+Acelin	Udbacki	NI1162	26	5720
+Gonsalwy	Ufbacki	MA1002	4	320
+Felin	Ugbacki	MA1002	6	480
+Herweusz	Uhbacki	MA1010	8	1120
+Plautylla	Wabacka	MA1036	29	2320
+Jan Nepomucen	Wbbacki	MA1196	5	400
+Stefan	Wcbacki	WI1290	16	3520
+Jan Kanty	Wdbacki	PI1269	14	1120
+Jan Kanty	Wdbacki	MA1013	17	2380
+Jan Kanty	Wdbacki	MA1095	2	280
+Klet	Webacki	MA1091	10	800
+Ksawera	Wfbacka	AN1294	28	2240
+Ksawera	Wfbacka	PI1253	10	1400
+Ksawery	Whbacki	NI1176	28	2240
+Symplicjusz	Yabacki	MA1347	24	1920
+Sandra	Ybbacka	MA1055	5	400
+Sandra	Ybbacka	AN1305	17	1360
+FilipNeriusz	Ycbacki	NI1176	1	80
+FilipNeriusz	Ycbacki	MA1140	4	880
+Gonsalwy	Ydbacki	WI1097	14	1120
+Jan Nepomucen	Yfbacki	PI1118	1	140
+Jan Nepomucen	Yfbacki	PI1131	7	560
+Abira	Ygbacka	MA1316	2	440
+Herweusz	Yhbacki	MA1229	14	3080
+Klet	Zabacki	NI1023	18	2520
+Klet	Zabacki	PI1204	6	840
+Ilona	Zbbacka	WI1344	7	560
+Ilona	Zbbacka	MA1008	19	4180
+Ilona	Zbbacka	WI1246	9	1980
+Salwina	Zcbacka	MA1295	26	3640
+Salwina	Zcbacka	NI1071	24	1920
+Salwina	Zcbacka	WI1280	10	2200
+Uma	Zdbacka	WI1272	1	80
+Uma	Zdbacka	MA1081	27	5940
+Uma	Zdbacka	WI1083	7	980
+Kanizja	Zebacka	MA1119	18	1440
+Kanizja	Zebacka	NI1103	14	3080
+Amon	Zfbacki	PI1157	25	5500
+Amon	Zfbacki	WI1038	5	400
+Aaricia	Zgbacka	NI1154	28	2240
+Aaricia	Zgbacka	MA1139	10	800
+Aaricia	Zgbacka	WI1017	29	6380
+Aaricia	Zgbacka	WI1126	11	880
+
+Zadanie 6.2
+Klasa	PoliczOfNr_klienta
+B	100
+C	48
+D	53
+
+Zadanie 6.3
+Imie	Nazwisko	PoliczOfWypozyczenie
+Ramzes	Hcbacki	5
+
+Zadanie 6.4
+Miejscowosc	B	C	D
+Aniolkowo	12	8	7
+Manipulatowo	31	14	11
+Nieszczerzyn	17	9	4
+Piarowa	16	18	8
+Wielka Wola	25	11	7
+
+Zadanie 6.5
+72
