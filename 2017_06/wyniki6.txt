@@ -1,0 +1,43 @@
+Zadanie 6.1
+program	cena	PoliczOfId_pakietu
+Foxit Redactor for Office	1621	2
+Publisher	170	3
+Word	120	4
+Writer	0	3
+
+Zadanie 6.2
+DocuPDF
+gDOC
+OKAY
+Sales Partner
+Subiekt
+Calligra Suite
+IBM Data Software
+GFI Security
+SolarWinds Free System Management Tools
+SolarWinds Systems Management
+
+Zadanie 6.3
+nazwa_pakietu	firma	SumaOfcena
+SolarWinds Systems Management	SolarWinds	57520
+MicroStation	Bentley	35736
+GFI Security	GFI Software	14811
+
+Zadanie 6.4
+Lightroom
+Audition
+Scribus
+Adobe PageMaker
+QuarkXPress
+
+Zadanie 6.5
+nazwa_pakietu	Darmowe	Komercyjne
+ApexSQL Developer	2	7
+DaemonTools Lite	1	8
+dbForge	1	5
+Expression Studio	1	3
+Foxit PDF Development Kits	1	2
+IconCool Software	1	4
+Logo-Gry	2	8
+MicroStation	1	4
+Sothink Suite	1	6

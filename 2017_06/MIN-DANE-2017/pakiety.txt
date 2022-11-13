@@ -1,0 +1,73 @@
+Id_pakietu	nazwa_pakietu	firma
+1	Adobe Creative Cloud	Adobe Systems
+2	Adobe Creative Suite	Adobe Systems
+3	Adobe CS6 Design	Adobe Systems
+4	Design Standard CS6	Adobe Systems
+5	Microsoft Office 2010 Home	Microsoft
+6	Microsoft Office 365 University	Microsoft
+8	Microsoft Office Business	Microsoft
+7	Microsoft Office Professional	Microsoft
+9	CorelDRAW Graphics Suite	Corel
+10	CorelDRAW Home	Corel
+11	Adobe Creative	Adobe Systems
+12	Apache OpenOffice	not-for-profit
+13	LibreOffice	not-for-profit
+14	Expression Studio	Microsoft
+15	OpenOffice STAR	not-for-profit
+16	CorelDRAW Standard	Corel
+17	CorelVideo Studio	Corel
+19	Calligra Suite	not-for-profit
+20	Logo-Gry	Young Digital Planet
+21	MicroStation	Bentley
+22	TechWriter	Adivo
+23	Foxit PDF Suite	Foxit
+24	gDOC	Global Graphics
+25	DocuPDF	Zeon Corporation
+26	Acronis Recovery	Acronis
+27	WinLock	Crystal Office System
+28	EaseUs	EaseUS
+29	RecoverMy	GetData
+30	GFI Security	GFI Software
+31	BadCopy	JustSoft
+32	Paragon Backup	Paragon Software
+33	PGP Support Package	Symantec
+34	Stellar Recovery	Stellar
+35	IBM Data Software	IBM
+36	Spectral Data	Spectral Core
+37	ArCADia	InterSoft
+38	OKAY	Clix Software
+39	Sales Partner	Sales Partner
+40	Subiekt	InsERT
+41	ConceptDraw Office	ComputerSystems Odessa
+42	Nevron Draw	Nevron
+43	ViewLet	Qarbon
+44	Dolphin Reader	Dolphin
+45	System Athena	Athena Soft
+46	Automapa	NavTeq
+47	AutoPilot	Cartall
+48	Emapa	Emapa
+49	Visual Mind	Mind Technogoly
+50	MindJet Manager	MindJet
+51	MagicDraw	Magic
+52	ActiveState Pro Studio	ActiveState
+53	Altova Studio	Altova
+54	ComponentOne Studio	ComponentOne
+55	dbForge	DevArt
+56	Infragistic Studio	Infragistic
+57	SerifPlus	Serif
+58	WebPlus XSeries	Serif
+59	n-software	n-software
+60	Actipro WPF Studio	Actipro Software
+61	ApexSQL Developer	ApexSQL
+62	ApexDBA Tools	ApexSQL
+63	Ashampoo Media	Ashampo
+64	DaemonTools Lite	DAEMON Tools Software Community
+65	FusionCharts Suite XT	InfoSoft Global
+66	iSpring E-learning Tools	iSpring Solutions
+67	IconCool Software	Newera Software Technology
+68	Paragon Disc Tools	Paragon Software
+69	SolarWinds Systems Management	SolarWinds
+70	SolarWinds Free System Management Tools	SolarWinds
+71	Sothink Suite	Sothink
+72	Camtasia Bundle	TechSmith
+73	Foxit PDF Development Kits	Foxit
