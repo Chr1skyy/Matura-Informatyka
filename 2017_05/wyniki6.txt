@@ -1,0 +1,12 @@
+Zadanie 6.1
+Najjaśniejszy: 221
+Najciemniejszy: 7
+
+Zadanie 6.2
+149
+
+Zadanie 6.3
+753
+
+Zadanie 6.4
+5

@@ -1,0 +1,20 @@
+Id_przedmiotu;Nazwa_przedmiotu;Data;Godzina;Typ
+1;jezyk polski;2014-05-05;09:00;obowiazkowy
+2;matematyka;2014-05-06;09:00;obowiazkowy
+3;jezyk lacinski i kultura antyczna;2014-05-06;14:00;dodatkowy
+4;jezyk angielski;2014-05-07;09:00;obowiazkowy
+5;wiedza o spoleczenstwie;2014-05-08;14:00;dodatkowy
+6;biologia;2014-05-11;09:00;dodatkowy
+7;jezyk niemiecki;2014-05-12;09:00;obowiazkowy
+8;geografia;2014-05-13;09:00;dodatkowy
+9;historia sztuki;2014-05-13;14:00;dodatkowy
+10;jezyk rosyjski;2014-05-14;09:00;obowiazkowy
+11;filozofia;2014-05-14;14:00;dodatkowy
+12;chemia;2014-05-15;09:00;dodatkowy
+13;fizyka;2014-05-15;14:00;dodatkowy
+14;jezyk francuski;2014-05-18;09:00;obowiazkowy
+15;informatyka;2014-05-19;09:00;dodatkowy
+16;historia;2014-05-19;14:00;dodatkowy
+17;jezyk hiszpanski;2014-05-20;14:00;obowiazkowy
+18;jezyk wloski;2014-05-21;14:00;obowiazkowy
+19;historia muzyki;2014-05-22;09:00;dodatkowy

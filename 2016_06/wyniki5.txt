@@ -1,0 +1,29 @@
+Zadanie 5.1
+Nazwisko	Imie
+Badowski	Fryderyk
+Barszcz	Tomasz
+Makowicz	Magda
+Nowak	Pawel
+Nowakowski	Marek
+Rybicka	Maria
+Wysocka	Justyna
+
+Zadanie 5.2
+Nazwa_przedmiotu	PoliczOfId_zdajacego
+wiedza o spoleczenstwie	8
+
+Zadanie 5.3
+Nazwisko	Imie	PoliczOfId_przedmiotu
+Baranska	Joanna	3
+Zalicki	Marcin	3
+Bajda	Maria	3
+
+Zadanie 5.4
+jezyk lacinski i kultura antyczna
+
+Zadanie 5.5
+Imie	Nazwisko	Nazwa_przedmiotu	Typ
+Marek	Nowakowski	informatyka	dodatkowy
+
+Zadanie 5.6
+180

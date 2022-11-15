@@ -1,0 +1,22 @@
+Zadanie 5.1
+a)
+Rodzaj_meczu	PoliczOfData_meczu
+L	113
+P	25
+T	6
+
+b)
+Wyr1	PoliczOfRodzaj_meczu
+2007	21
+
+Zadanie 5.2
+Nocne Pumy
+Zwinne Mewy
+
+Zadanie 5.3
+Wygrane 579
+Remis 170
+Przegrane 452
+
+Zadanie 5.4
+22

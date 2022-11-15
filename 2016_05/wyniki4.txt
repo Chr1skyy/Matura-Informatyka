@@ -1,0 +1,15 @@
+Zadanie 4.1	
+Należą do brzegu	
+(200, 400)
+(256, 8)
+	
+Należy do wewnątrz	7852
+
+Zadanie 4.2
+a)	3,2280
+b)	3,1656
+c)	3,1416
+
+Zadanie 4.3
+Błąd n1000	0,0864
+Błąd n1700	0,0184
