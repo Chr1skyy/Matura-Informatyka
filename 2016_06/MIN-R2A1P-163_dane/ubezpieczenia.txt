@@ -1,0 +1,332 @@
+Nazwisko;Imie;Data_urodz;Miejsce_zamieszkania
+Czarnecka;Ewelina;1960-10-01;srednie miasto
+Nesterowicz;Piotr;1984-09-27;wies
+Adamus;Magdalena;1967-10-08;duze miasto
+Kowalski;Hubert;1986-05-12;wies
+Zamojska;Maria;1962-05-14;wies
+Matecki;Adam;1986-10-09;duze miasto
+Potocki;Anna;1991-11-27;srednie miasto
+Przybylska;Laura;1983-02-25;srednie miasto
+Monachijski;Piotr;1991-11-26;srednie miasto
+Cender;Urszula;1985-03-05;srednie miasto
+Badowski;Bogdan;1947-06-29;srednie miasto
+Mazurowski;Janusz;1991-03-24;duze miasto
+Lasota;Piotr;1971-06-09;duze miasto
+Olczak;Damian;1946-12-08;duze miasto
+Kolesinski;Konstanty;1971-03-27;duze miasto
+Pakulski;Bogdan;1982-08-30;srednie miasto
+Banasiak;Paulina;1981-03-23;wies
+Bajdek;Katarzyna;1995-09-03;male miasto
+Chojnacka;Monika;1963-10-25;wies
+Karpowicz;Anna;1945-03-02;srednie miasto
+Korcela;Marta;1954-05-28;duze miasto
+Deska;Ewa;1971-03-26;srednie miasto
+Krencik;Maciej;1968-09-29;male miasto
+Nawrot;Janusz;1991-06-22;wies
+Legnicka;Karolina;1984-10-14;duze miasto
+Wenecka;Justyna;1953-01-09;duze miasto
+Kaleta;Natalia;1964-10-18;male miasto
+Samarskyi;Kostiantyn;1954-05-07;duze miasto
+Tkacz;Adam;1948-12-29;wies
+Borsuk;Magdalena;1968-07-26;duze miasto
+Anusz;Anna;1950-04-14;duze miasto
+Trzebnicka;Anna;1959-03-21;srednie miasto
+Bardzio;Celina;1944-01-04;male miasto
+Firlej;Anna;1983-11-20;srednie miasto
+Sadcza;Romuald;1959-03-24;duze miasto
+Uniejewski;Tobiasz;1962-07-16;srednie miasto
+Iwaszko;Katarzyna;1962-10-25;duze miasto
+Rutkowski;Sebastian;1979-01-01;srednie miasto
+Kubiak;Aleksandra;1975-04-26;wies
+Krakowska;Karolina;1967-09-29;duze miasto
+Uss;Adrian;1973-02-08;male miasto
+Zasada;Joanna;1951-08-07;srednie miasto
+Majka;Danuta;1992-10-22;duze miasto
+Kaczmar;Monika;1995-03-15;duze miasto
+Adamczyk;Irena;1979-03-15;srednie miasto
+Jasiak;Monika;1948-03-20;male miasto
+Sosnowski;Arkadiusz;1971-03-10;duze miasto
+Bydgoska;Karolina;1946-09-05;duze miasto
+Szulgo;Marek;1948-08-12;srednie miasto
+Szczygielski;Tadeusz;1982-07-23;srednie miasto
+Magierowicz;Patryk;1962-04-22;male miasto
+Biegaj;Karolina;1948-10-24;srednie miasto
+Boss;Anna;1944-04-06;srednie miasto
+Rusu;Siergiu;1987-12-07;srednie miasto
+Lipski;Adam;1955-08-31;duze miasto
+Milcarz;Maciej;1953-01-16;srednie miasto
+Czarnoleska;Patrycja;1995-04-29;duze miasto
+Rejkowicz;Maria;1965-02-02;wies
+Rybicka;Martyna;1980-05-30;duze miasto
+Gajak;Agnieszka;1974-12-07;duze miasto
+Zakowicz;Kacper;1952-02-08;srednie miasto
+Chorzowska;Paulina;1975-03-22;duze miasto
+Belgracka;Karolina;1956-09-21;srednie miasto
+Paszewski;Piotr;1960-10-17;male miasto
+Wielogorski;Karol;1947-07-28;duze miasto
+Kowalczyk;Karol;1993-11-07;male miasto
+Marzec;Maciej;1970-09-10;male miasto
+Kaczan;Ewa;1955-06-02;male miasto
+Cichocka;Anna;1969-07-31;duze miasto
+Wichrowa;Ewa;1952-02-24;wies
+Wpawska;Barbara;1951-07-02;duze miasto
+Bugajska;Julia;1946-09-27;male miasto
+Adaszek;Barbara;1991-02-08;srednie miasto
+Mielecka;Joanna;1946-07-04;srednie miasto
+Radu;Daniel;1991-06-19;male miasto
+Chorzowska;Joanna;1968-08-20;srednie miasto
+Szymenderski;Olaf;1993-05-11;male miasto
+Adamczyk;Karolina;1953-06-12;wies
+Banasik;Zofia;1974-09-12;wies
+Kostrzewa;Piotr;1974-11-14;duze miasto
+Gazda;Alicja;1956-06-12;duze miasto
+Lubelska;Justyna;1952-09-19;duze miasto
+Grabowska;Klaudia;1959-12-14;duze miasto
+Talaska;Marcin;1946-03-12;duze miasto
+Lewandowski;Bartosz;1995-07-13;srednie miasto
+Durka;Kornelia;1943-11-18;duze miasto
+Krynicka;Justyna;1991-07-27;srednie miasto
+Baran;Leon;1951-09-21;srednie miasto
+Pleszewska;Patrycja;1988-03-17;duze miasto
+Kika;Marcelina;1986-12-25;wies
+Legnicka;Maryla;1983-11-13;male miasto
+Kijowski;Wojciech;1993-07-27;male miasto
+Antczak;Klaudia;1991-02-12;duze miasto
+Krakowska;Teresa;1959-12-13;duze miasto
+Suwalska;Paulina;1950-12-07;male miasto
+Karwatowska;Marzena;1951-10-09;duze miasto
+Sofijska;Ewa;1946-09-11;wies
+Sadecki;Andrzej;1961-12-04;wies
+Podlaska;Paulina;1954-01-16;duze miasto
+Augustowska;Zofia;1966-04-25;srednie miasto
+Piotrkowska;Paulina;1947-01-29;male miasto
+Sopocka;Karolina;1987-08-24;duze miasto
+Piotrkowska;Katarzyna;1964-10-29;duze miasto
+Krakowska;Beata;1971-11-02;duze miasto
+Kalinowski;Szymon;1984-04-02;srednie miasto
+Rzymski;Robert;1970-09-07;srednie miasto
+Kowalik;Malgorzata;1945-04-02;male miasto
+Bajda;Ewelina;1983-08-02;male miasto
+Kapala;Adrian;1986-07-08;duze miasto
+Szklarska;Marzena;1977-10-29;duze miasto
+Jagos;Wioletta;1963-05-08;duze miasto
+Szklarska;Dominika;1981-10-02;duze miasto
+Bolkowski;Jan;1989-02-06;male miasto
+Barszcz;Patryk;1980-05-20;duze miasto
+Kot;Maciej;1948-08-27;male miasto
+Junak;Roxana;1978-03-31;srednie miasto
+Setniewska;Wiktoria;1957-11-30;male miasto
+Hajkiewicz;Justyna;1949-10-12;duze miasto
+Balcerzak;Ilona;1956-06-24;srednie miasto
+Litewka;Maciej;1994-01-30;duze miasto
+Kotala;Anna;1970-01-14;srednie miasto
+Aronowska;Halina;1980-05-09;duze miasto
+Katowicka;Dorota;1959-06-03;srednie miasto
+Bitner;Halina;1955-12-13;duze miasto
+Sochacki;Marcin;1967-01-03;duze miasto
+Skrok;Arkadiusz;1973-04-19;srednie miasto
+Bartosiak;Kazimiera;1948-05-15;duze miasto
+Siedlecka;Rozalia;1947-08-03;duze miasto
+Muchewicz;Piotr;1946-06-23;srednie miasto
+Pilipczuk;Mariusz;1992-06-24;male miasto
+Krakowska;Paulina;1992-10-08;srednie miasto
+Bielun;Urszula;1983-07-01;wies
+Grzeskowiak;Szymon;1960-06-23;wies
+Karpek;Paulina;1976-06-27;srednie miasto
+Kowal;Ewa;1965-01-20;duze miasto
+Augustyn;Zofia;1968-11-16;srednie miasto
+Filipczuk;Paulina;1967-12-18;duze miasto
+Miklas;Maciej;1991-06-09;wies
+Vasina;Adam;1995-04-06;wies
+Bydgoska;Inga;1955-10-12;duze miasto
+Banasiewicz;Beata;1969-08-01;duze miasto
+Fryziel;Daria;1958-12-29;duze miasto
+Bedka;Justyna;1985-07-04;wies
+Banaszczyk;Barbara;1977-12-13;duze miasto
+Ptaszek;Janusz;1993-11-14;duze miasto
+Rey;Tadeusz;1968-05-14;srednie miasto
+Zeller;Teresa;1951-06-08;wies
+Majcherczyk;Maciej;1975-08-05;wies
+Grabicka;Grazyna;1971-05-18;duze miasto
+Praska;Anna;1950-01-22;srednie miasto
+Jakus;Piotr;1992-04-02;duze miasto
+Grdulska;Danuta;1969-07-20;duze miasto
+Badowski;Karol;1959-08-07;srednie miasto
+Majkut;Maciej;1972-07-10;srednie miasto
+Cabaj;Martyna;1979-02-11;wies
+Malecka;Stefania;1991-08-04;duze miasto
+Gagatek;Stefan;1967-03-08;duze miasto
+Otwocka;Ewelia;1976-08-20;srednie miasto
+Pleszewska;Krystyna;1972-02-06;male miasto
+Sabatowicz;Szymon;1985-02-17;duze miasto
+Magiera;Robert;1971-06-28;male miasto
+Klekotko;Justyna;1963-09-18;srednie miasto
+Nowak;Damian;1990-03-20;male miasto
+Doszko;Katarzyna;1954-02-04;wies
+Rozwalka;Wojciech;1974-10-22;wies
+Aleksandrowicz;Krystyna;1959-10-15;srednie miasto
+Kilarski;Ewa;1957-08-19;male miasto
+Rykowski;Roman;1985-09-02;male miasto
+Skierniewicka;Malwina;1947-01-12;duze miasto
+Wronka;Cezary;1988-06-11;srednie miasto
+Wroniszewski;Mieszko;1987-10-31;duze miasto
+Andrzejewska;Barbara;1986-12-03;srednie miasto
+Klimaszewski;Krzysztof;1951-01-20;male miasto
+Pachnowski;Jacek;1945-10-24;srednie miasto
+Klimaszewska;Ewa;1968-07-17;duze miasto
+Malik;Jakub;1947-06-24;srednie miasto
+Grzeskowiak;Szymon;1963-05-26;wies
+Lwowska;Paulina;1946-12-30;duze miasto
+Adamowicz;Jolanta;1966-12-30;duze miasto
+Pastuszka;Marzena;1994-07-08;srednie miasto
+Kalitowski;Marcin;1950-04-01;srednie miasto
+Miller;Zbigniew;1993-04-10;duze miasto
+Bartkiewicz;Elwira;1947-06-13;duze miasto
+Dmochowska;Katarzyna;1991-11-08;male miasto
+Szostek;Krzysztof;1966-11-15;srednie miasto
+Paprocki;Konrad;1952-11-09;male miasto
+Holmes;Barbara;1972-11-23;duze miasto
+Kozar;Robert;1959-12-13;duze miasto
+Bednarska;Karolina;1995-06-15;duze miasto
+Piotrkowska;Zuzanna;1953-12-19;duze miasto
+Antos;Karolina;1976-05-13;srednie miasto
+Kumur;Genowefa;1977-04-11;duze miasto
+Wilczko;Adrian;1982-01-03;wies
+Bugajski;Jan;1963-04-10;duze miasto
+Florczuk;Katarzyna;1967-12-02;duze miasto
+Bielec;Maria;1948-03-09;male miasto
+Busz;Jan;1958-01-14;wies
+Balicka;Anna;1981-10-20;duze miasto
+Badowska;Danuta;1953-10-27;srednie miasto
+Labryga;Piotr;1961-08-21;duze miasto
+Barcik;Barbara;1969-05-09;duze miasto
+Ksel;Krzysztof;1955-04-02;male miasto
+Skrzypek;Bartosz;1952-05-27;duze miasto
+Konstantinova;Alexandra;1949-09-06;duze miasto
+Kowalska;Karolina;1971-08-01;srednie miasto
+Wojtkowiak;Marcin;1984-04-26;male miasto
+Jurecka;Kinga;1967-05-31;duze miasto
+Popowski;Adam;1987-02-10;srednie miasto
+Pietrzyk;Anita;1993-08-20;duze miasto
+Sieduszewski;Piotr;1974-02-19;wies
+Pryk;Tymon;1949-06-04;wies
+Maj;Maciej;1974-01-30;duze miasto
+Marciszewski;Roman;1984-12-23;srednie miasto
+Adamski;Jerzy;1995-07-13;duze miasto
+Albert;Jerzy;1960-07-04;srednie miasto
+Polkowicka;Dominika;1944-07-14;duze miasto
+Cieplik;Marta;1987-11-22;duze miasto
+Parczewska;Malwina;1971-03-04;wies
+Pisarska;Alicja;1990-06-16;duze miasto
+Basiak;Anna;1983-12-21;wies
+Janicka;Paulina;1969-02-09;duze miasto
+Engel;Anna;1975-09-02;duze miasto
+Plichta;Robert;1970-03-17;duze miasto
+Barszczewska;Cecylia;1975-10-16;srednie miasto
+Szklarska;Tekla;1989-09-14;wies
+Aleksandrowicz;Barbara;1972-03-22;wies
+Kuc;Danuta;1958-11-19;srednie miasto
+Kogut;Magdalena;1989-10-09;srednie miasto
+Sopocka;Olivia;1966-07-15;srednie miasto
+Berezowska;Anita;1984-03-06;wies
+Walczak;Maciej;1954-05-09;duze miasto
+Guzik;Anna;1988-01-05;duze miasto
+Modzelewski;Mateusz;1949-01-06;duze miasto
+Dudek;Marzena;1954-11-29;duze miasto
+Banach;Leon;1984-06-30;wies
+Klasz;Marcin;1961-06-03;srednie miasto
+Banasik;Irena;1946-09-03;duze miasto
+Kisiel;Dawid;1967-09-17;srednie miasto
+Geldner;Magdalena;1950-11-22;srednie miasto
+Rygielski;Maciej;1956-09-29;duze miasto
+Ossowski;Karol;1964-01-25;srednie miasto
+Kisielewska;Greta;1946-10-09;srednie miasto
+Nyski;Piotr;1983-06-14;duze miasto
+Kopec;Anna;1956-07-15;duze miasto
+Sznyrowska;Wiktoria;1989-03-13;duze miasto
+Tichoniuk;Marcin;1949-12-01;duze miasto
+Dul;Dominika;1966-04-28;srednie miasto
+Grzegorczyk;Marta;1974-09-27;srednie miasto
+Grzywacz;Wanda;1950-05-15;duze miasto
+Banach;Dorota;1994-03-07;duze miasto
+Legnicka;Karina;1958-11-24;duze miasto
+Barabasz;Krystyna;1986-12-03;srednie miasto
+Borowska;Ewelina;1993-09-23;srednie miasto
+Cedro;Zofia;1952-07-08;wies
+Sieradzki;Piotr;1975-01-30;duze miasto
+Sar;Wojciech;1964-10-15;duze miasto
+Kordaszewska;Magdalena;1948-04-26;srednie miasto
+Bauer;Jagoda;1969-11-23;srednie miasto
+Brychcy;Agata;1995-02-28;wies
+Potocki;Grzegorz;1947-12-30;duze miasto
+Kordaszewski;Piotr;1988-12-05;srednie miasto
+Wiatrowski;Roman;1994-07-18;duze miasto
+Albert;Joanna;1978-01-01;duze miasto
+Balcer;Iwona;1989-06-30;wies
+Augustowska;Irma;1974-03-24;srednie miasto
+Jackowska;Maria;1980-02-08;duze miasto
+Adamczyk;Julia;1950-06-23;srednie miasto
+Sosnowiecka;Dorota;1994-03-13;duze miasto
+Henrykowski;Kornel;1973-01-25;duze miasto
+Szklarska;Karolina;1966-10-11;srednie miasto
+Podczasiak;Jadwiga;1960-04-04;duze miasto
+Skrzydlowski;Dawid;1947-02-09;wies
+Genewski;Andrzej;1961-09-23;srednie miasto
+Bienias;Alina;1956-09-24;duze miasto
+Madrycki;Janusz;1968-03-03;duze miasto
+Opolska;Paulina;1956-12-19;duze miasto
+Barwicka;Zofia;1982-10-11;duze miasto
+Leniak;Jacek;1958-02-05;wies
+Kapanowska;Marta;1955-04-14;srednie miasto
+Lech;Bartosz;1946-12-01;srednie miasto
+Kaczocha;Maciej;1989-10-21;srednie miasto
+Nowak;Anna;1970-09-28;duze miasto
+Kozar;Artur;1987-09-08;duze miasto
+Barszczewska;Halina;1986-05-24;srednie miasto
+Bartoszek;Justyna;1952-06-08;srednie miasto
+Gawlowska;Enrika;1960-01-19;srednie miasto
+Balcerowska;Iwona;1977-03-03;duze miasto
+Nagaj;Mieszko;1993-11-18;duze miasto
+Jakubczyk;Agnieszka;1967-06-29;srednie miasto
+Aleksander;Barbara;1949-04-22;srednie miasto
+Wiek;Jadwiga;1972-07-26;male miasto
+Suchocki;Andrzej;1983-02-21;male miasto
+Augustowska;Justyna;1946-07-08;duze miasto
+Michalik;Wojciech;1965-07-27;duze miasto
+Bandera;Ewa;1973-07-26;duze miasto
+Rybicki;Jakub;1947-04-11;male miasto
+Lysiak;Helena;1986-07-19;srednie miasto
+Balcerek;Zofia;1958-03-20;duze miasto
+Blacharz;Krystyna;1981-02-05;male miasto
+Augustowska;Anna;1984-07-12;srednie miasto
+Kaczorowska;Agnieszka;1987-05-27;duze miasto
+Kisielewski;Krystian;1964-01-08;duze miasto
+Sikora;Norbert;1987-11-16;srednie miasto
+Warszawska;Rita;1961-10-01;male miasto
+Barszczewska;Anna;1961-08-15;duze miasto
+Moskiewski;Sebastian;1980-10-16;srednie miasto
+Pogrebniak;Jegor;1961-04-27;duze miasto
+Gates;Anna;1977-09-26;wies
+Zaprawa;Marcin;1944-06-21;srednie miasto
+Mazgaj;Szymon;1989-11-24;duze miasto
+Samborski;Bartosz;1964-05-31;srednie miasto
+Barcikowska;Zyta;1977-12-30;duze miasto
+Radziejowski;Krystian;1957-04-10;duze miasto
+Baranek;Magdalena;1993-07-14;srednie miasto
+Wosiak;Roman;1988-07-17;srednie miasto
+Cichawa;Dorota;1945-07-22;duze miasto
+Smutnicki;Tomasz;1977-04-02;duze miasto
+Kotala;Dominik;1989-05-18;male miasto
+Gralewicz;Ewelina;1978-05-26;male miasto
+Matczak;Piotr;1983-04-12;duze miasto
+Chorzowska;Jadwiga;1993-01-02;duze miasto
+Grzybek;Karolina;1973-11-06;duze miasto
+Bartel;Ewa;1958-06-03;duze miasto
+Kosaty;Marek;1968-11-08;srednie miasto
+Pietkiewicz;Piotr;1955-09-08;duze miasto
+Alot;Zofia;1943-12-05;srednie miasto
+Glazik;Paulina;1950-11-01;duze miasto
+Parczewska;Kazimiera;1993-01-07;duze miasto
+Barczuk;Maja;1984-02-08;duze miasto
+Szkutnik;Bartosz;1961-11-19;wies
+Podstawa;Jadwiga;1952-05-09;duze miasto

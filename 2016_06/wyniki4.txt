@@ -1,0 +1,35 @@
+Zadanie 4.1	
+Miesiąc	Liczba osób
+sty	26
+lut	22
+mar	30
+kwi	27
+maj	25
+cze	31
+lip	33
+sie	19
+wrz	29
+paź	32
+lis	28
+gru	29
+	
+Zadanie 4.2	
+Miejsce zamieszkania	Liczba kobiet
+duze miasto	97
+male miasto	20
+srednie miasto	59
+wies	24
+
+Zadanie 4.3	
+Płeć	Suma składek
+K	8961,50
+M	6261,00
+
+Zadanie 4.4	
+Przedział wiekowy	Liczba osób
+20-29	62
+30-39	56
+40-49	64
+50-59	56
+60-69	71
+70-79	22

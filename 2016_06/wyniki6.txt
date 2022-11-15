@@ -1,0 +1,17 @@
+Zadanie 6.1
+103
+
+Zadanie 6.2
+29
+
+Zadanie 6.3
+153
+
+Zadanie 6.4
+887918739
+
+Zadanie 6.5
+Największa kod: 8066218209
+Wartość: 347931225
+Najmniejsza: 100002
+Wartość: 16
