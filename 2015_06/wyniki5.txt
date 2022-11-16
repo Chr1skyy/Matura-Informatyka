@@ -1,0 +1,28 @@
+Zadanie 5.1
+Przekroczenie dopuszczalnej predkosci o 21 - 30 km/h	77
+
+Zadanie 5.2
+pesel	SumaOfpunkty
+81011159031	32
+81011807736	26
+80062465997	27
+
+Zadanie 5.3
+nazwa
+Naruszenie zakazu wyprzedzania pojazdu silnikowego przy dojezdzaniu do wierzcholka wzniesienia
+Naruszenie zakazu wyprzedzania na zakretach oznaczonych znakami ostrzegawczymi
+Naruszenie zakazu wyprzedzania na skrzyzowaniach
+Naruszenie zakazu zawracania na autostradzie lub drodze ekspresowej
+Naruszenie zakazu postoju w miejscach utrudniajacych wjazd lub wyjazd
+Naruszenie zakazu postoju w miejscach utrudniajacych dostep do innego prawidowo zaparkowanego pojadu
+Naruszenie zakazu postoju przed lub za przejazdem kolejowym
+Naruszenie zakazu postoju w strefie zamieszkania w miejscach innych niz wyznaczone
+W czasie jazdy naruszenie zakazu palenia tytoniu lub spozywania pokarmow.
+
+Zadanie 5.4
+miesiac	ilosc_mandatow	laczna_kwota
+9	113	22000
+
+Zadanie 5.5
+190
+Warszawa
