@@ -1,0 +1,85 @@
+kod_wyk	nazwa	mandat	punkty
+18	Zajmowanie wiecej niz jednego, wyznaczonego na jezdni, pasa ruchu	150	8
+19	Naruszenie obowiazku poruszania sie po poboczu przez kierujacego pojazdem	100	4
+20	Nieustapienie miejsca nadjezdzajacemu pojazdowi szynowemu przez kierujacego pojazdem	250	5
+21	Niekorzystanie z pasow bezpieczenstwa podczas jazdy	100	3
+22	Przewozenie dziecka w pojezdzie  poza fotelikiem ochronnym lub innym urzadzeniem do przewozenia dzieci	150	3
+24	Kierowanie pojazdem przewozacym pasazerow niekorzystajacych z pasow bezpieczenstwa	100	3
+25	Nieuzywanie helmu ochronnego przez kierujacego motocyklem lub motorowerem	100	5
+26	Kierowanie motocyklem lub motorowerem przewozacym pasazerow nieuzywajacych helmu ochronnego	100	5
+28	Korzystanie podczas jazdy z telefonu wymagajace trzymania sluchawki lubmikrofonu w reku przez kierujacego pojazdem	200	5
+29	Wjezdzanie na pas miedzy jezdniami	100	5
+30	Niedopelnienie obowiazkow przez uczestnikow wypadku poprzez nieusuniecie pojazdu z miejsca wypadku, w ktorym nie bylo zabitego lub rannego	150	5
+31	Nieuzywanie elementow odblaskowych w sposob widoczny dla innych uczestnikow ruchu przez osobe wykonujaca roboty lub inne czynnosci na drodze	150	3
+32	Brak oznaczenia lub niewlasciwe oznaczenie pojazdow do nauki jazdy lub przeprowadzania egzaminu panstwowego	300	7
+33	Nieustapienie pierwszenstwa innemu pojazdowi lub uczestnikowi ruchu podczas wlaczania sie do ruchu	300	8
+36	Przekroczenie dopuszczalnej predkosci do 10 km/h	50	2
+37	Przekroczenie dopuszczalnej predkosci o 11 - 20 km/h	100	3
+38	Przekroczenie dopuszczalnej predkosci o 21 - 30 km/h	200	5
+39	Przekroczenie dopuszczalnej predkosci o 31 - 40 km/h	300	7
+40	Przekroczenie dopuszczalnej predkosci o 41 - 50 km/h	400	8
+41	Przekroczenie dopuszczalnej predkosci o ponad 51 km/h	500	10
+42	Jazda z predkoscia utrudniajaca ruch innym kierujacym	100	5
+45	Przekroczenie indywidualnie okreslonej dopuszczalnej predkosci dla danego pojazdu	150	3
+46	Zawracanie w warunkach, w ktorych mogloby to zagrazac bezpieczenstwu ruchu lub ruch ten utrudnic	200	5
+47	Zawracanie w tunelach, na mostach i wiaduktach oraz na drogach jednokierunkowych	200	5
+48	Utrudnianie lub tamowanie ruchu poprzez brak lub bledne sygnalizowanie manewru	200	5
+49	Nieodpowiednie ustawienie pojazdu na jezdni przed skreceniem	150	4
+50	Nieustapienie pierwszenstwa przez kierujacego pojazdem zmieniajacego zajmowany pas ruchu	250	6
+51	Omijanie pojazdu, ktory jechal w tym samym kierunku, lecz zatrzymal sie w celu ustapienia pierwszenstwa pieszemu	500	10
+52	Omijanie pojazdu oczekujacego na otwarcie ruchu przez przejazd kolejowy 	250	5
+53	Utrudnianie ruchu podczas cofania	100	3
+54	Naruszenie zakazow cofania w tunelach, na mostach i wiaduktach	200	4
+55	Wyprzedzanie na przejsciach dla pieszych lub bezposrednio przed nimi	200	5
+56	Wyprzedzanie na przejazdach dla rowerzystow lub bezposrednio przed nimi	200	5
+59	Naruszenie zakazu wyprzedzania pojazdu silnikowego przy dojezdzaniu do wierzcholka wzniesienia	300	6
+60	Naruszenie zakazu wyprzedzania na zakretach oznaczonych znakami ostrzegawczymi	300	6
+61	Naruszenie zakazu wyprzedzania na skrzyzowaniach	300	6
+62	Wyprzedzanie na przejazdach kolejowych albo tramwajowych 	300	6
+63	Wyprzedzanie z niewlasciwej strony	200	5
+64	Wyprzedzanie bez zachowania bezpiecznego odstepu od wyprzedzanego pojazdu lub uczestnika ruchu	300	6
+65	Zwiekszanie predkosci przez kierujacego pojazdem wyprzedzanym	350	8
+67	Wyprzedzanie pojazdu uprzywilejowanego na obszarze zabudowanym	300	10
+68	Nieustapienie przez kierujacego pojazdem pierwszenstwa pieszym znajdujacym sie na przejsciu	350	10
+69	Nieustapienie przez kierujacego pojazdem pierwszenstwa na skrzyzowaniu pieszym przy skrecaniu w droge poprzeczna	350	7
+79	Jazda wzdluz po chodniku lub przejsciu dla pieszych pojazdem silnikowym	250	6
+81	Naruszenie przez kierujacego zakazu wjezdzania na skrzyzowanie, jesli na skrzyzowaniu lub za nim nie ma miejsca do kontynuowania jazdy	300	8
+82	Niewlaczenie przez kierujacego pojazdem wymaganych swiatel w czasie jazdy 	200	5
+84	Naduzywanie sygnalow dzwiekowych lub swietlnych	100	3
+85	Uzywanie sygnalow dzwiekowych na obszarze zabudowanym	100	3
+86	Uzywanie tylnych swiatel przeciwmglowych przy normalnej przejrzystosci powietrza	100	3
+87	Holowanie pojazdu, ktorego kierujacy nie ma wymaganych uprawnien do kierowania tym pojazdem	250	5
+89	Holowanie pojazdem z przyczepa (naczepa)	250	5
+93	Niewlaczenie w pojezdzie holujacym swiatel mijania	100	3
+94	Nieprawidlowe polaczenie pojazdu holowanego z holujacym	150	5
+95	Brak lub niewlasciwe oznaczenie pojazdu holowanego	150	5
+124	Naruszenie zakazu zawracania na autostradzie lub drodze ekspresowej	300	8
+125	Cofanie na autostradzie lub drodze ekspresowej	300	8
+126	Wjazd na autostrade lub droge ekspresowa pojazdem, dla ruchu ktorego drogi te nie sa przeznaczone	250	5
+134	Zatrzymywanie pojazdu w tunelu, na moscie lub na wiadukcie	200	5
+138	Zatrzymywanie pojazdu przy lewej krawedzi jezdni	100	3
+139	Zatrzymywanie pojazdu na pasie miedzy jezdniami	100	3
+143	Brak sygnalizowania lub niewlasciwe sygnalizowanie postoju pojazdu z powodu uszkodzenia lub wypadku	150	4
+147	Naruszenie zakazu postoju w miejscach utrudniajacych wjazd lub wyjazd	100	5
+148	Naruszenie zakazu postoju w miejscach utrudniajacych dostep do innego prawidowo zaparkowanego pojadu	100	3
+149	Naruszenie zakazu postoju przed lub za przejazdem kolejowym	100	5
+150	Naruszenie zakazu postoju w strefie zamieszkania w miejscach innych niz wyznaczone	100	3
+152	Jazda bez wymaganych swiatel od zmierzchu do switu	200	5
+153	Jazda bez wymaganych swiatel od switu do zmierzchu	100	3
+154	Jazda bez wymaganych swiatel pojazdami niewyposazonymi w swiatla mijania, drogowe lub do jazdy dziennej	100	3
+155	Jazda bez wymaganych przepisami swiatel w tunelu, niezaleznie od pory doby	200	5
+156	Nieuzywanie wymaganego oswietlenia podczas zatrzymania lub postoju w warunkach niedostatecznej widocznosci	300	5
+157	Korzystanie ze swiatel drogowych w sposob niezgodny z przepisami	200	4
+158	Naruszenie warunkow dopuszczalnosci uzywania przednich swiatel przeciwmglowych	100	3
+159	Uzywanie szperacza podczas jazdy	100	3
+162	Zakrywanie swiatel oraz urzadzen sygnalizacyjnych	200	5
+163	Zakrywanie tablic rejestracyjnych	100	5
+164	Oddalenie sie kierujacego od pojazdu, gdy silnik jest w ruchu	50	3
+165	Uzywanie opon z umieszczonymi w nich na trwale elementami przeciwslizgowymi	100	3
+166	Uzywanie lancuchow przeciwslizgowych na oponach na drodze niepokrytej sniegiem	100	3
+167	Wjezdzanie miedzy jadace w kolumnie rowery jednosladowe	200	8
+174	Bezpodstawne uzywanie zoltego sygnalu blyskowego	100	3
+184	Naruszenie przepisow o przewozie ladunkow sypkich	150	3
+186	Przewoz osob pojazdem nieprzeznaczonym lub nieprzystosowanym do tego celu	500	8
+188	Naruszenie warunkow przewozu osob w przyczepach	150	5
+190	W czasie jazdy naruszenie zakazu palenia tytoniu lub spozywania pokarmow.	50	2
