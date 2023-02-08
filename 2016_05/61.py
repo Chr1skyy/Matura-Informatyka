@@ -16,4 +16,3 @@ def szyfruj(slowo, klucz):
 for wiersz in plik:
     wiersz = wiersz.strip()
     print(szyfruj(wiersz, 107))
-
