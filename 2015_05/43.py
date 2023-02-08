@@ -12,4 +12,3 @@ najmniejsza_pozycja = base_10.index(najmniejsza) + 1
 print('Zadanie 4.3')
 print('Numer wiersza najmniejszej liczby:', najmniejsza_pozycja)
 print('Numer wiersza największej liczby:', najwieksza_pozycja)
-

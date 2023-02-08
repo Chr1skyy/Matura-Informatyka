@@ -1,4 +1,4 @@
-plik = open('Dane_PR/przyklad.txt').readlines()
+plik = open('Dane_PR/sygnaly.txt').readlines()
 
 max_roznych_liter = -1
 max_slowo = ''

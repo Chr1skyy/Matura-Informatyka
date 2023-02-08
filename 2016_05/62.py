@@ -16,5 +16,5 @@ def odszyfruj(slowo, klucz):
 for wiersz in plik:
     wiersz = wiersz.strip().split()
     slowo = wiersz[0]
-    klucz = int(wiersz[1])
+    klucz = int(wiersz[1]) if len(wiersz) > 1 else 0
     print(odszyfruj(slowo, klucz))

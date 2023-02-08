@@ -32,7 +32,7 @@ for i in range(0, len(liczby) - 1):
         naj_poczatek = poczatek
         naj_nwd = wyraz
 
-print('Zadnaie 4.3')
+print('Zadanie 4.3')
 print('Pierwsza liczba ciągu:', naj_poczatek)
 print('Długość:', naj_dlugosc)
 print('Największy wspólny dzielnik:', naj_nwd)
