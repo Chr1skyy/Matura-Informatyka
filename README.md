@@ -8,36 +8,31 @@ Discord: **Chriskyy#0181**.
 	- [Odpowiedzi](2015_05/informatyka-2015-maj-matura-rozszerzona-odpowiedzi.pdf)
 	- [Dane ZIP](2015_05/Dane_PR.zip)
 
-<details>
-<summary>Rozwiązanie Python</summary>
-
-<details>
-<summary>4.1</summary>
+<details><summary>Rozwiązanie Python</summary>
+<details><summary>4.1</summary>
 
 ```python
 plik = open('Dane_PR/liczby.txt').readlines()
 
 ile_liczb = 0
 for wiersz in plik:
-    wiersz = wiersz.strip()
-    ilosc_jedynek = 0
+	wiersz = wiersz.strip()
+	ilosc_jedynek = 0
 	ilosc_zer = 0
 	for litera in wiersz:
-        if litera == '0':
+		if litera == '0':
 			ilosc_zer += 1
 		if litera == '1':
 			ilosc_jedynek += 1
 	if ilosc_zer > ilosc_jedynek:
-    	ile_liczb += 1
+		ile_liczb += 1
 
 print('Zadanie 4.1')
 print(ile_liczb)
 ```
 
 </details>
-
-<details>
-<summary>4.2</summary>
+<details><summary>4.2</summary>
 
 ```python
 plik = open('Dane_PR/liczby.txt').readlines()
@@ -48,9 +43,9 @@ for wiersz in plik:
     wiersz = wiersz.strip()
     base_10 = int(wiersz, 2)
     if base_10 % 2 == 0:
-        podzielne_2 += 1
-  	if base_10 % 8 == 0:
-        podzielne_8 += 1
+		podzielne_2 += 1
+	if base_10 % 8 == 0:
+		podzielne_8 += 1
 
 print('Zadanie 4.2')
 print('Podzielne przez 2:', podzielne_2)
@@ -58,9 +53,7 @@ print('Podzielne przez 8:', podzielne_8)
 ```
 
 </details>
-
-<details>
-<summary>4.3</summary>
+<details><summary>4.3</summary>
 
 ```python
 plik = open('Dane_PR/liczby.txt').readlines()
@@ -78,9 +71,7 @@ print('Zadanie 4.3')
 print('Numer wiersza najmniejszej liczby:', najmniejsza_pozycja)
 print('Numer wiersza największej liczby:', najwieksza_pozycja)
 ```
-
 </details>
-
 </details>
 
 - Czerwiec [2015_06](2015_06)
@@ -89,12 +80,8 @@ print('Numer wiersza największej liczby:', najwieksza_pozycja)
 	- [Odpowiedzi](2015_06/informatyka-2015-czerwiec-matura-rozszerzona-odpowiedzi.pdf)
 	- [Dane ZIP](2015_06/MIN-R2A1P-153_dane.zip)
 
-
-<details>
-<summary>Rozwiązanie Python</summary>
-
-<details>
-<summary>6.1</summary>
+<details><summary>Rozwiązanie Python</summary>
+<details><summary>6.1</summary>
 
 ```python
 plik = open('MIN-R2A1P-153_dane/kody.txt').readlines()
@@ -111,9 +98,7 @@ for wiersz in plik:
 ```
 
 </details>
-
-<details>
-<summary>6.2</summary>
+<details><summary>6.2</summary>
 
 ```python
 plik = open('MIN-R2A1P-153_dane/kody.txt').readlines()
@@ -133,9 +118,7 @@ for wiersz in plik:
 ```
 
 </details>
-
-<details>
-<summary>6.3</summary>
+<details><summary>6.3</summary>
 
 ```python
 plik = open('MIN-R2A1P-153_dane/kody.txt').readlines()
@@ -206,7 +189,6 @@ for wiersz in plik:
 ```
 
 </details>
-
 </details>
 
 ### 2016
@@ -216,11 +198,8 @@ for wiersz in plik:
 	- [Odpowiedzi](2016_05/informatyka-2016-maj-matura-rozszerzona-odpowiedzi.pdf)
 	- [Dane ZIP](2016_05/Dane_NOWA.zip)
 
-<details>
-<summary>Rozwiązanie Python</summary>
-
-<details>
-<summary>6.1</summary>
+<details><summary>Rozwiązanie Python</summary>
+<details><summary>6.1</summary>
 
 ```python
 plik = open('Dane_NOWA/dane_6_1.txt').readlines()
@@ -244,9 +223,7 @@ for wiersz in plik:
 ```
 
 </details>
-
-<details>
-<summary>6.2</summary>
+<details><summary>6.2</summary>
 
 ```python
 plik = open('Dane_NOWA/dane_6_2.txt').readlines()
@@ -272,9 +249,7 @@ for wiersz in plik:
 ```
 
 </details>
-
-<details>
-<summary>6.3</summary>
+<details><summary>6.3</summary>
 
 ```python
 plik = open('Dane_NOWA/dane_6_3.txt').readlines()
@@ -309,7 +284,6 @@ for wiersz in plik:
 ```
 
 </details>
-
 </details>
 
 - Czerwiec [2016_06](2016_06)
@@ -318,11 +292,8 @@ for wiersz in plik:
 	- [Odpowiedzi](2016_06/informatyka-2016-czerwiec-matura-rozszerzona-odpowiedzi.pdf)
 	- [Dane ZIP](2016_06/MIN-R2A1P-163_dane.zip)
 
-<details>
-<summary>Rozwiązanie Python</summary>
-
-<details>
-<summary>6.1</summary>
+<details><summary>Rozwiązanie Python</summary>
+<details><summary>6.1</summary>
 
 ```python
 plik = open('MIN-R2A1P-163_dane/liczby.txt').readlines()
@@ -338,9 +309,7 @@ print(ile)
 ```
 
 </details>
-
-<details>
-<summary>6.2</summary>
+<details><summary>6.2</summary>
 
 ```python
 plik = open('MIN-R2A1P-163_dane/liczby.txt').readlines()
@@ -357,9 +326,7 @@ print(ile)
 ```
 
 </details>
-
-<details>
-<summary>6.3</summary>
+<details><summary>6.3</summary>
 
 ```python
 plik = open('MIN-R2A1P-163_dane/liczby.txt').readlines()
@@ -377,9 +344,7 @@ print(ile)
 ```
 
 </details>
-
-<details>
-<summary>6.4</summary>
+<details><summary>6.4</summary>
 
 ```python
 plik = open('MIN-R2A1P-163_dane/liczby.txt').readlines()
@@ -396,9 +361,7 @@ print(suma)
 ```
 
 </details>
-
-<details>
-<summary>6.5</summary>
+<details><summary>6.5</summary>
 
 ```python
 plik = open('MIN-R2A1P-163_dane/liczby.txt').readlines()
@@ -484,7 +447,6 @@ print('Wartość:', min_liczba)
 ```
 
 </details>
-
 </details>
 
 ### 2017
@@ -494,11 +456,8 @@ print('Wartość:', min_liczba)
 	- [Odpowiedzi](2017_05/informatyka-2017-maj-matura-rozszerzona-odpowiedzi.pdf)
 	- [Dane ZIP](2017_05/Dane_PR.zip)
 
-<details>
-<summary>Rozwiązanie Python</summary>
-
-<details>
-<summary>6.1</summary>
+<details><summary>Rozwiązanie Python</summary>
+<details><summary>6.1</summary>
 
 ```python
 plik = open('Dane_PR/dane.txt').readlines()
@@ -519,9 +478,7 @@ print('Najciemniejszy:', ciemny)
 ```
 
 </details>
-
-<details>
-<summary>6.2</summary>
+<details><summary>6.2</summary>
 
 ```python
 plik = open('Dane_PR/dane.txt').readlines()
@@ -539,9 +496,7 @@ print(ile)
 ```
 
 </details>
-
-<details>
-<summary>6.3</summary>
+<details><summary>6.3</summary>
 
 ```python
 plik = open('Dane_PR/dane.txt').readlines()
@@ -569,9 +524,7 @@ print(kontrastujace)
 ```
 
 </details>
-
-<details>
-<summary>6.4</summary>
+<details><summary>6.4</summary>
 
 ```python
 plik = open('Dane_PR/dane.txt').readlines()
@@ -597,7 +550,6 @@ print(maks_dlugosc)
 ```
 
 </details>
-
 </details>
 
 - Czerwiec [2017_06](2017_06)
@@ -606,11 +558,8 @@ print(maks_dlugosc)
 	- [Odpowiedzi](2017_06/informatyka-2017-czerwiec-matura-rozszerzona-odpowiedzi.pdf)
 	- [Dane ZIP](2017_06/MIN-DANE-2017.zip)
 
-<details>
-<summary>Rozwiązanie Python</summary>
-
-<details>
-<summary>4.1</summary>
+<details><summary>Rozwiązanie Python</summary>
+<details><summary>4.1</summary>
 
 ```python
 plik = open('MIN-DANE-2017/punkty.txt').readlines()
@@ -638,9 +587,7 @@ print(ile)
 ```
 
 </details>
-
-<details>
-<summary>4.2</summary>
+<details><summary>4.2</summary>
 
 ```python
 plik = open('MIN-DANE-2017/punkty.txt').readlines()
@@ -664,9 +611,7 @@ print(ile)
 ```
 
 </details>
-
-<details>
-<summary>4.3</summary>
+<details><summary>4.3</summary>
 
 ```python
 import math
@@ -702,9 +647,7 @@ print(najdalej)
 ```
 
 </details>
-
-<details>
-<summary>4.4</summary>
+<details><summary>4.4</summary>
 
 ```python
 plik = open('MIN-DANE-2017/punkty.txt').readlines()
@@ -733,7 +676,6 @@ print(wewnatrz, bok, zewnatrz)
 ```
 
 </details>
-
 </details>
 
 ### 2018
@@ -743,11 +685,8 @@ print(wewnatrz, bok, zewnatrz)
 	- [Odpowiedzi](2018_05/informatyka-2018-maj-matura-rozszerzona-odpowiedzi.pdf)
 	- [Dane ZIP](2018_05/Dane_PR.zip)
 
-<details>
-<summary>Rozwiązanie Python</summary>
-
-<details>
-<summary>4.1</summary>
+<details><summary>Rozwiązanie Python</summary>
+<details><summary>4.1</summary>
 
 ```python
 plik = open('Dane_PR/sygnaly.txt').readlines()
@@ -761,9 +700,7 @@ print(haslo)
 ```
 
 </details>
-
-<details>
-<summary>4.2</summary>
+<details><summary>4.2</summary>
 
 ```python
 plik = open('Dane_PR/przyklad.txt').readlines()
@@ -784,9 +721,7 @@ print(max_slowo, max_roznych_liter)
 ```
 
 </details>
-
-<details>
-<summary>4.3</summary>
+<details><summary>4.3</summary>
 
 ```python
 plik = open('Dane_PR/sygnaly.txt').readlines()
@@ -810,7 +745,6 @@ for i in dobre:
 ```
 
 </details>
-
 </details>
 
 - Czerwiec [2018_06](2018_06)
@@ -819,11 +753,8 @@ for i in dobre:
 	- [Odpowiedzi](2018_06/informatyka-2018-czerwiec-matura-rozszerzona-odpowiedzi.pdf)
 	- [Dane ZIP](2018_06/NM_DANE_PR.zip)
 
-<details>
-<summary>Rozwiązanie Python</summary>
-
-<details>
-<summary>4.1</summary>
+<details><summary>Rozwiązanie Python</summary>
+<details><summary>4.1</summary>
 
 ```python
 file1 = open('NM_DANE_PR/dane1.txt').readlines()
@@ -849,9 +780,7 @@ print(ilosc)
 ```
 
 </details>
-
-<details>
-<summary>4.2</summary>
+<details><summary>4.2</summary>
 
 ```python
 file1 = open('NM_DANE_PR/dane1.txt').readlines()
@@ -897,9 +826,7 @@ print(ilosc)
 ```
 
 </details>
-
-<details>
-<summary>4.3</summary>
+<details><summary>4.3</summary>
 
 ```python
 file1 = open('NM_DANE_PR/dane1.txt').readlines()
@@ -929,9 +856,7 @@ print('Wiersze:', numer_wiersza)
 ```
 
 </details>
-
-<details>
-<summary>4.4</summary>
+<details><summary>4.4</summary>
 
 ```python
 file1 = open('NM_DANE_PR/dane1.txt').readlines()
@@ -955,7 +880,6 @@ for i in range(len(ciagi_1)):
 ```
 
 </details>
-
 </details>
 
 ### 2019
@@ -965,37 +889,33 @@ for i in range(len(ciagi_1)):
 	- [Odpowiedzi](2019_05/informatyka-2019-maj-matura-rozszerzona-odpowiedzi.pdf)
 	- [Dane ZIP](2019_05/Dane_PR.zip)
 
-<details>
-<summary>Rozwiązanie Python</summary>
-
-<details>
-<summary>4.1</summary>
+<details><summary>Rozwiązanie Python</summary>
+<details><summary>4.1</summary>
 
 ```python
-file1 = open('NM_DANE_PR/dane1.txt').readlines()
-file2 = open('NM_DANE_PR/dane2.txt').readlines()
+plik = open('Dane_PR/liczby.txt').readlines()
 
-ciagi_1 = []
-for wiersz in file1:
-    wiersz = wiersz.strip().split()
-    ciagi_1.append(wiersz)
 
-ciagi_2 = []
-for wiersz in file2:
-    wiersz = wiersz.strip().split()
-    ciagi_2.append(wiersz)
+def czyPotegaTrzy(num):
+    while num % 3 == 0:
+        num /= 3
+    if num == 1:
+        return True
+    return False
 
-print('Zadanie 4.4')
-for i in range(len(ciagi_1)):
-    ciag = ciagi_1[i] + ciagi_2[i]
-    ciag.sort(key=lambda x: int(x))
-    print(' '.join(ciag))
+
+ile = 0
+for wiersz in plik:
+    wiersz = int(wiersz.strip())
+    if czyPotegaTrzy(wiersz):
+        ile += 1
+
+print('Zadanie 4.1')
+print(ile)
 ```
 
 </details>
-
-<details>
-<summary>4.2</summary>
+<details><summary>4.2</summary>
 
 ```python
 plik = open('Dane_PR/liczby.txt').readlines()
@@ -1020,9 +940,7 @@ for i in wynik:
 ```
 
 </details>
-
-<details>
-<summary>4.3</summary>
+<details><summary>4.3</summary>
 
 ```python
 plik = open('Dane_PR/liczby.txt').readlines()
@@ -1066,7 +984,6 @@ print('Największy wspólny dzielnik:', naj_nwd)
 ```
 
 </details>
-
 </details>
 
 - Czerwiec [2019_06](2019_06)
@@ -1075,11 +992,8 @@ print('Największy wspólny dzielnik:', naj_nwd)
 	- [Odpowiedzi](2019_06/informatyka-2019-czerwiec-matura-rozszerzona-odpowiedzi.pdf)
 	- [Dane ZIP](2019_06/MIN-R2A1P-193_dane.zip)
 
-<details>
-<summary>Rozwiązanie Python</summary>
-
-<details>
-<summary>4.1</summary>
+<details><summary>Rozwiązanie Python</summary>
+<details><summary>4.1</summary>
 
 ```python
 plik = open('MIN-R2A1P-193_dane/liczby.txt').readlines()
@@ -1104,9 +1018,7 @@ for wiersz in plik:
 ```
 
 </details>
-
-<details>
-<summary>4.2</summary>
+<details><summary>4.2</summary>
 
 ```python
 plik = open('MIN-R2A1P-193_dane/pierwsze.txt').readlines()
@@ -1128,9 +1040,7 @@ for wiersz in plik:
 ```
 
 </details>
-
-<details>
-<summary>6.3</summary>
+<details><summary>4.3</summary>
 
 ```python
 plik = open('MIN-R2A1P-193_dane/pierwsze.txt').readlines()
@@ -1164,7 +1074,6 @@ for i in pierwsze:
 ```
 
 </details>
-
 </details>
 
 ### 2020
@@ -1174,11 +1083,8 @@ for i in pierwsze:
 	- [Odpowiedzi](2020_04/informatyka-2020-kwiecien-probna-rozszerzona-odpowiedzi.pdf)
 	- [Dane ZIP](2020_04/DANE_PR.zip)
 
-<details>
-<summary>Rozwiązanie Python</summary>
-
-<details>
-<summary>4.1</summary>
+<details><summary>Rozwiązanie Python</summary>
+<details><summary>4.1</summary>
 
 ```python
 plik = open('DANE_PR/dane4.txt').readlines()
@@ -1199,9 +1105,7 @@ print('Minimalna luka:', min(luki))
 ```
 
 </details>
-
-<details>
-<summary>4.2</summary>
+<details><summary>4.2</summary>
 
 ```python
 plik = open('DANE_PR/dane4.txt').readlines()
@@ -1236,9 +1140,7 @@ print('Koniec', max_ciag[-1])
 ```
 
 </details>
-
-<details>
-<summary>4.3</summary>
+<details><summary>4.3</summary>
 
 ```python
 from collections import Counter
@@ -1262,7 +1164,6 @@ for luka, krotnosc in count:
 ```
 
 </details>
-
 </details>
 
 - Maj [2020_05](2020_05)
@@ -1271,11 +1172,8 @@ for luka, krotnosc in count:
 	- [Odpowiedzi](2020_05/informatyka-2020-maj-matura-rozszerzona-odpowiedzi.pdf)
 	- [Dane ZIP](2020_05/Dane_PR2.zip)
 
-<details>
-<summary>Rozwiązanie Python</summary>
-
-<details>
-<summary>4.1</summary>
+<details><summary>Rozwiązanie Python</summary>
+<details><summary>4.1</summary>
 
 ```python
 plik = open('Dane_PR2/pary.txt').readlines()
@@ -1305,9 +1203,7 @@ for wiersz in plik:
 ```
 
 </details>
-
-<details>
-<summary>4.2</summary>
+<details><summary>4.2</summary>
 
 ```python
 plik = open('Dane_PR2/pary.txt').readlines()
@@ -1329,9 +1225,7 @@ for wiersz in plik:
 ```
 
 </details>
-
-<details>
-<summary>4.3</summary>
+<details><summary>4.3</summary>
 
 ```python
 plik = open('Dane_PR2/pary.txt').readlines()
@@ -1353,7 +1247,6 @@ for liczba, slowo in lista:
 ```
 
 </details>
-
 </details>
 
 - Lipiec [2020_07](2020_07)
@@ -1362,11 +1255,8 @@ for liczba, slowo in lista:
 	- [Odpowiedzi](2020_07/informatyka-2020-lipiec-matura-rozszerzona-odpowiedzi.pdf)
 	- [Dane ZIP](2020_07/DANE.zip)
 
-<details>
-<summary>Rozwiązanie Python</summary>
-
-<details>
-<summary>4.1</summary>
+<details><summary>Rozwiązanie Python</summary>
+<details><summary>4.1</summary>
 
 ```python
 plik = open('DANE/identyfikator.txt').readlines()
@@ -1396,9 +1286,7 @@ for i in najwyzsze_sumy:
 ```
 
 </details>
-
-<details>
-<summary>4.2</summary>
+<details><summary>4.2</summary>
 
 ```python
 plik = open('DANE/identyfikator.txt').readlines()
@@ -1417,9 +1305,7 @@ for i in palindromy:
 ```
 
 </details>
-
-<details>
-<summary>4.3</summary>
+<details><summary>4.3</summary>
 
 ```python
 plik = open('DANE/identyfikator.txt').readlines()
@@ -1447,7 +1333,6 @@ for i in niepoprawne:
 ```
 
 </details>
-
 </details>
 
 ### 2021
@@ -1457,11 +1342,8 @@ for i in niepoprawne:
 	- [Odpowiedzi](2021_03/informatyka-2021-marzec-probna-rozszerzona-odpowiedzi.pdf)
 	- [Dane ZIP](2021_03/Dane_2103.zip)
 
-<details>
-<summary>Rozwiązanie Python</summary>
-
-<details>
-<summary>4.1</summary>
+<details><summary>Rozwiązanie Python</summary>
+<details><summary>4.1</summary>
 
 ```python
 plik = open('Dane_2103/galerie.txt').readlines()
@@ -1483,9 +1365,7 @@ for x in galerie.keys():
 ```
 
 </details>
-
-<details>
-<summary>4.2</summary>
+<details><summary>4.2</summary>
 
 ```python
 plik = open('Dane_2103/galerie.txt').readlines()
@@ -1518,9 +1398,7 @@ print(min_pow_miasto, min_pow)
 ```
 
 </details>
-
-<details>
-<summary>4.3</summary>
+<details><summary>4.3</summary>
 
 ```python
 plik = open('Dane_2103/galerie.txt').readlines()
@@ -1551,7 +1429,6 @@ print(min_roznych_miasto, min_roznych)
 ```
 
 </details>
-
 </details>
 
 - Maj [2021_05](2021_05)
@@ -1560,11 +1437,8 @@ print(min_roznych_miasto, min_roznych)
 	- [Odpowiedzi](2021_05/informatyka-2021-maj-matura-rozszerzona-odpowiedzi.pdf)
 	- [Dane ZIP](2021_05/DANE_2105.zip)
 
-<details>
-<summary>Rozwiązanie Python</summary>
-
-<details>
-<summary>4.1</summary>
+<details><summary>Rozwiązanie Python</summary>
+<details><summary>4.1</summary>
 
 ```python
 plik = open('DANE_2105/instrukcje.txt').readlines()
@@ -1609,9 +1483,7 @@ print(len(haslo))
 ```
 
 </details>
-
-<details>
-<summary>4.2</summary>
+<details><summary>4.2</summary>
 
 ```python
 plik = open('DANE_2105/instrukcje.txt').readlines()
@@ -1642,9 +1514,7 @@ print(streak_instrukcja, maks_streak)
 ```
 
 </details>
-
-<details>
-<summary>4.3</summary>
+<details><summary>4.3</summary>
 
 ```python
 plik = open('DANE_2105/instrukcje.txt').readlines()
@@ -1676,9 +1546,7 @@ print(maks_litera, maks_liczba_wystapien)
 ```
 
 </details>
-
-<details>
-<summary>4.4</summary>
+<details><summary>4.4</summary>
 
 ```python
 plik = open('DANE_2105/instrukcje.txt').readlines()
@@ -1730,7 +1598,6 @@ print(haslo_cale)
 ```
 
 </details>
-
 </details>
 
 - Czerwiec [2021_06](2021_06)
@@ -1739,11 +1606,8 @@ print(haslo_cale)
 	- [Odpowiedzi](2021_06/informatyka-2021-czerwiec-matura-rozszerzona-odpowiedzi.pdf)
 	- [Dane ZIP](2021_06/DANE.zip)
 
-<details>
-<summary>Rozwiązanie Python</summary>
-
-<details>
-<summary>4.1</summary>
+<details><summary>Rozwiązanie Python</summary>
+<details><summary>4.1</summary>
 
 ```python
 plik = open('DANE/napisy.txt').readlines()
@@ -1760,9 +1624,7 @@ print(cyfra)
 ```
 
 </details>
-
-<details>
-<summary>4.2</summary>
+<details><summary>4.2</summary>
 
 ```python
 plik = open('DANE/napisy.txt').readlines()
@@ -1778,9 +1640,7 @@ print(haslo)
 ```
 
 </details>
-
-<details>
-<summary>4.3</summary>
+<details><summary>4.3</summary>
 
 ```python
 plik = open('DANE/napisy.txt').readlines()
@@ -1801,9 +1661,7 @@ print(haslo)
 ```
 
 </details>
-
-<details>
-<summary>4.4</summary>
+<details><summary>4.4</summary>
 
 ```python
 plik = open('DANE/napisy.txt').readlines()
@@ -1836,7 +1694,6 @@ print(haslo)
 ```
 
 </details>
-
 </details>
 
 ### 2022
@@ -1846,11 +1703,8 @@ print(haslo)
 	- [Odpowiedzi](2022_05/informatyka-2022-maj-matura-rozszerzona-odpowiedzi.pdf)
 	- [Dane ZIP](2022_05/Dane_2205.zip)
 
-<details>
-<summary>Rozwiązanie Python</summary>
-
-<details>
-<summary>4.1</summary>
+<details><summary>Rozwiązanie Python</summary>
+<details><summary>4.1</summary>
 
 ```python
 plik = open('Dane_2205/liczby.txt').readlines()
@@ -1869,9 +1723,7 @@ print(ilosc, pierwsza)
 ```
 
 </details>
-
-<details>
-<summary>4.2</summary>
+<details><summary>4.2</summary>
 
 ```python
 plik = open('Dane_2205/liczby.txt').readlines()
@@ -1912,9 +1764,7 @@ print('Najwięcej różnych czynników pierwszych:', maks_ilosc_dzielnikow_rozne
 ```
 
 </details>
-
-<details>
-<summary>4.3</summary>
+<details><summary>4.3</summary>
 
 ```python
 plik = open('Dane_2205/liczby.txt').readlines()
@@ -1975,7 +1825,6 @@ for i in dobre_piatki:
 ```
 
 </details>
-
 </details>
 
 - Czerwiec [2022_06](2022_06)
@@ -1984,11 +1833,8 @@ for i in dobre_piatki:
 	- [Odpowiedzi](2022_06/informatyka-2022-czerwiec-matura-rozszerzona-odpowiedzi.pdf)
 	- [Dane ZIP](2022_06/DANE.zip)
 
-<details>
-<summary>Rozwiązanie Python</summary>
-
-<details>
-<summary>4.1</summary>
+<details><summary>Rozwiązanie Python</summary>
+<details><summary>4.1</summary>
 
 ```python
 plik = open('DANE/liczby.txt').readlines()
@@ -2006,9 +1852,7 @@ for i in podzielne:
 ```
 
 </details>
-
-<details>
-<summary>4.2</summary>
+<details><summary>4.2</summary>
 
 ```python
 plik = open('DANE/liczby.txt').readlines()
@@ -2029,9 +1873,7 @@ print(maks_liczba, maks_roznica)
 ```
 
 </details>
-
-<details>
-<summary>4.3</summary>
+<details><summary>4.3</summary>
 
 ```python
 plik = open('DANE/liczby.txt').readlines()
@@ -2061,9 +1903,7 @@ for i in pierwsze:
 ```
 
 </details>
-
-<details>
-<summary>4.3</summary>
+<details><summary>4.4</summary>
 
 ```python
 plik = open('DANE/liczby.txt').readlines()
@@ -2095,5 +1935,4 @@ print(len(rozne), podwojnie, potrojnie)
 ```
 
 </details>
-
 </details>
